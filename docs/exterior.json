@@ -1,0 +1,5480 @@
+{
+  "version": 1,
+  "coordinateSystem": "right-handed-z-up",
+  "assetToSourceRotation": "x+90deg",
+  "coverage": "partial",
+  "bounds": {
+    "min": [
+      0.0,
+      -18.0,
+      -2.8782544136047363
+    ],
+    "max": [
+      25.200000762939453,
+      10.800000190734863,
+      13.680000305175781
+    ]
+  },
+  "parts": [
+    {
+      "id": "p_03d3c4fdc58825cd18aed5c2",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -14.399999618530273,
+          -1.3189283609390259
+        ],
+        "max": [
+          7.199999809265137,
+          -10.800000190734863,
+          -0.8196195363998413
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_03d3c4fdc58825cd18aed5c2/coarse.glb",
+          "byteLength": 163852,
+          "sha256": "b8911702ca1bcf487f3cdff90e2dd5bea463aa388a7bb5c592bb12b94ba07bcb",
+          "triangleCount": 9612,
+          "vertexCount": 6962
+        }
+      ]
+    },
+    {
+      "id": "p_042b7a8c3899c774c783fb33",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -10.800000190734863,
+          -0.8364770412445068
+        ],
+        "max": [
+          19.203428268432617,
+          -7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_042b7a8c3899c774c783fb33/coarse.glb",
+          "byteLength": 84688,
+          "sha256": "d52d660139e5265b6453870c43903f15cf0001064d10659a9e7fc32d282a152b",
+          "triangleCount": 4837,
+          "vertexCount": 3597
+        }
+      ]
+    },
+    {
+      "id": "p_045329593af4ee767e475fd5",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.84361457824707,
+          0.0,
+          2.880000114440918
+        ],
+        "max": [
+          20.6999568939209,
+          3.5999999046325684,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_045329593af4ee767e475fd5/coarse.glb",
+          "byteLength": 555624,
+          "sha256": "dc7264c2a0b0b6b4d5b136fb8230e570ede81fd5e947830d5da0b4e50788df2f",
+          "triangleCount": 33504,
+          "vertexCount": 23524
+        }
+      ]
+    },
+    {
+      "id": "p_05b012cba464737827a85211_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -18.0,
+          -0.7043346166610718
+        ],
+        "max": [
+          18.0,
+          -15.60718059539795,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_05b012cba464737827a85211_0/coarse.glb",
+          "byteLength": 652904,
+          "sha256": "7ca1a81d5521ffffa71e451e3499d98a2627c3ad75e2dcac725b4b940b4277b8",
+          "triangleCount": 39627,
+          "vertexCount": 27561
+        }
+      ]
+    },
+    {
+      "id": "p_05b012cba464737827a85211_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -15.61478042602539,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_05b012cba464737827a85211_1/coarse.glb",
+          "byteLength": 690340,
+          "sha256": "76d8bb5052074ecf599293120f0adb42447bca8cb02fcc7ada69baba9f1bcc53",
+          "triangleCount": 42774,
+          "vertexCount": 28797
+        }
+      ]
+    },
+    {
+      "id": "p_083ef0959630818757e7e16b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -14.399999618530273,
+          2.880000114440918
+        ],
+        "max": [
+          18.0,
+          -10.800000190734863,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_083ef0959630818757e7e16b/coarse.glb",
+          "byteLength": 790024,
+          "sha256": "8a198d7b148ddd347c60c852b84a8034189a32285eef37934c3671c1c7e5d6f9",
+          "triangleCount": 46873,
+          "vertexCount": 33803
+        }
+      ]
+    },
+    {
+      "id": "p_09103160b8ecd4d2894670df",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -17.69234275817871,
+          6.480000019073486
+        ],
+        "max": [
+          25.200000762939453,
+          -14.399999618530273,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_09103160b8ecd4d2894670df/coarse.glb",
+          "byteLength": 264276,
+          "sha256": "846439f62eb4c812b514c68dc714d3a54b70b7d16ab399eb3604ea6b577240c2",
+          "triangleCount": 12953,
+          "vertexCount": 12322
+        }
+      ]
+    },
+    {
+      "id": "p_09504fa3ded5f7add7a57b2b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.182615280151367,
+          -14.399999618530273,
+          -0.7824239730834961
+        ],
+        "max": [
+          18.0,
+          -10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_09504fa3ded5f7add7a57b2b/coarse.glb",
+          "byteLength": 101728,
+          "sha256": "a0dfdc87d10b400ad581e92743ca1b4fde79898357d599c3d91dff602a9f60ad",
+          "triangleCount": 5920,
+          "vertexCount": 4342
+        }
+      ]
+    },
+    {
+      "id": "p_0ab23703df9ac103be829719",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -14.399999618530273,
+          4.201472759246826
+        ],
+        "max": [
+          18.278226852416992,
+          -10.800000190734863,
+          6.1504058837890625
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0ab23703df9ac103be829719/coarse.glb",
+          "byteLength": 35684,
+          "sha256": "158c319ae8b01d72327fbe535f91c9263bd424d29a2160844cae8d4ae3c6f986",
+          "triangleCount": 1908,
+          "vertexCount": 1502
+        }
+      ]
+    },
+    {
+      "id": "p_0b4ff4251cb56269057c6439",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          4.452238082885742,
+          -17.91063117980957,
+          10.079999923706055
+        ],
+        "max": [
+          6.117555618286133,
+          -14.418269157409668,
+          12.983152389526367
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0b4ff4251cb56269057c6439/coarse.glb",
+          "byteLength": 9520,
+          "sha256": "1285990094af9e448dd796e2872c03c18dec823d2654f21dfd9efab9688b5a20",
+          "triangleCount": 435,
+          "vertexCount": 389
+        }
+      ]
+    },
+    {
+      "id": "p_0bbcc297621cb85f47220554",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          22.107229232788086,
+          -14.399999618530273,
+          10.079999923706055
+        ],
+        "max": [
+          24.130538940429688,
+          -13.139374732971191,
+          12.357362747192383
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0bbcc297621cb85f47220554/coarse.glb",
+          "byteLength": 43892,
+          "sha256": "db3c4baf2e7560ef085efb067d0b6291ea1193d0b3824db05d7b67f341a0c0c8",
+          "triangleCount": 2127,
+          "vertexCount": 1961
+        }
+      ]
+    },
+    {
+      "id": "p_0c276699852415e12e304d1f_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -10.800000190734863,
+          -0.6021682620048523
+        ],
+        "max": [
+          14.399999618530273,
+          -8.769157409667969,
+          2.48262357711792
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0c276699852415e12e304d1f_0/coarse.glb",
+          "byteLength": 204856,
+          "sha256": "2541f5b3e40b7d584c683dca6a8f047927a2ed795a7b3bf68701e0276288b53e",
+          "triangleCount": 12059,
+          "vertexCount": 8717
+        }
+      ]
+    },
+    {
+      "id": "p_0c276699852415e12e304d1f_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -8.78687572479248,
+          -0.594535231590271
+        ],
+        "max": [
+          14.399999618530273,
+          -7.199999809265137,
+          2.478703022003174
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0c276699852415e12e304d1f_1/coarse.glb",
+          "byteLength": 310208,
+          "sha256": "e11402a4dd909db897e2eaf3ccb77f523cf5471c19ce1cebc7ace8704b5f5236",
+          "triangleCount": 18582,
+          "vertexCount": 13087
+        }
+      ]
+    },
+    {
+      "id": "p_0cbd13c790142128f158c44d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -14.399999618530273,
+          -0.7200000286102295
+        ],
+        "max": [
+          3.4474823474884033,
+          -10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0cbd13c790142128f158c44d/coarse.glb",
+          "byteLength": 311644,
+          "sha256": "f788d8679da8781b375c7f0011847477e35d9222a8ac16ebe493a041426c7013",
+          "triangleCount": 17349,
+          "vertexCount": 13721
+        }
+      ]
+    },
+    {
+      "id": "p_0e293a4ed11ef5b8f841013e",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          14.399999618530273,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_0e293a4ed11ef5b8f841013e/coarse.glb",
+          "byteLength": 481656,
+          "sha256": "0f264de08a4294f3b2e642490cc4130eeaeaaabf036a74d6ca947a15b044d1b1",
+          "triangleCount": 25112,
+          "vertexCount": 21950
+        }
+      ]
+    },
+    {
+      "id": "p_10f4b88eae7b8dc6c6658f76",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -14.399999618530273,
+          6.480000019073486
+        ],
+        "max": [
+          3.5999999046325684,
+          -10.800000190734863,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_10f4b88eae7b8dc6c6658f76/coarse.glb",
+          "byteLength": 226524,
+          "sha256": "b9769c3a5f7a18dac320cdb4e4eb7ca5422381500a2a19445002f17beaab2b30",
+          "triangleCount": 11115,
+          "vertexCount": 10540
+        }
+      ]
+    },
+    {
+      "id": "p_1252dd054fa3f1150f5b7fc0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -18.0,
+          6.480000019073486
+        ],
+        "max": [
+          18.0,
+          -14.399999618530273,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1252dd054fa3f1150f5b7fc0/coarse.glb",
+          "byteLength": 242552,
+          "sha256": "d378edc360be76fea1927e0bcaed324ff3e056fdcfc06ca134d16a19de6192d8",
+          "triangleCount": 11682,
+          "vertexCount": 11383
+        }
+      ]
+    },
+    {
+      "id": "p_1327ca062a132403544a9d2a",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -14.399999618530273,
+          7.537509918212891
+        ],
+        "max": [
+          24.230838775634766,
+          -13.094831466674805,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1327ca062a132403544a9d2a/coarse.glb",
+          "byteLength": 54520,
+          "sha256": "f4f83d7a77d4f757cdeef276282fda108b7c0721ab814be1f156889ad0f7247f",
+          "triangleCount": 2613,
+          "vertexCount": 2475
+        }
+      ]
+    },
+    {
+      "id": "p_151899cdf2507a2c9d1c13bc",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          5.594406604766846,
+          3.589031219482422
+        ],
+        "max": [
+          18.0,
+          6.860888957977295,
+          5.847747802734375
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_151899cdf2507a2c9d1c13bc/coarse.glb",
+          "byteLength": 231260,
+          "sha256": "f6f1963aaf477d81d26af176dd3ded13ee8c2218ef84afbe6457a7608e6f98f8",
+          "triangleCount": 14165,
+          "vertexCount": 9636
+        }
+      ]
+    },
+    {
+      "id": "p_1584a04911a675e00b77823d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -7.199999809265137,
+          -1.0649863481521606
+        ],
+        "max": [
+          7.199999809265137,
+          -3.5999999046325684,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1584a04911a675e00b77823d/coarse.glb",
+          "byteLength": 239804,
+          "sha256": "759b42a562fae4f143d8bee1dc0c35372a52d996950567695ae3fdc6277622d0",
+          "triangleCount": 14347,
+          "vertexCount": 10131
+        }
+      ]
+    },
+    {
+      "id": "p_194a04913d0408b584e51f18",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          6.53685188293457,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          7.199999809265137,
+          2.5586118698120117
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_194a04913d0408b584e51f18/coarse.glb",
+          "byteLength": 122456,
+          "sha256": "72be5b01da56ca602ae72ccda46ad5b96a1cd3e7ae86e5fcdbb3b431762b17a3",
+          "triangleCount": 7009,
+          "vertexCount": 5245
+        }
+      ]
+    },
+    {
+      "id": "p_1b7737c2cb3e10c05ecdc6b0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          10.373857498168945,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1b7737c2cb3e10c05ecdc6b0/coarse.glb",
+          "byteLength": 598564,
+          "sha256": "3ef44430b5a7bbd60adcfa61f8c96b859b7e94583d34a4740da15e57cd581a6f",
+          "triangleCount": 38573,
+          "vertexCount": 24359
+        }
+      ]
+    },
+    {
+      "id": "p_1b8684506a25332f6f695ad6",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.016713857650757,
+          0.0,
+          2.880000114440918
+        ],
+        "max": [
+          3.5999999046325684,
+          3.5999999046325684,
+          3.8607842922210693
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1b8684506a25332f6f695ad6/coarse.glb",
+          "byteLength": 72304,
+          "sha256": "5ead9688bcea0c5d92232fab3db4b6a748718fff7f6254e2d36a0a2403fc7206",
+          "triangleCount": 4135,
+          "vertexCount": 3095
+        }
+      ]
+    },
+    {
+      "id": "p_1cb4401372a94b7293fe0a8e",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          6.535550117492676,
+          -1.0493266582489014
+        ],
+        "max": [
+          10.800000190734863,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1cb4401372a94b7293fe0a8e/coarse.glb",
+          "byteLength": 93196,
+          "sha256": "b417b5bcc4c0dfe566bc05e9a795b0586b76022b53a8181a6bb44c66357c1a13",
+          "triangleCount": 5345,
+          "vertexCount": 3960
+        }
+      ]
+    },
+    {
+      "id": "p_1d47bc9fa69bec11bd9b683a",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -14.399999618530273,
+          6.480000019073486
+        ],
+        "max": [
+          14.399999618530273,
+          -11.523608207702637,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_1d47bc9fa69bec11bd9b683a/coarse.glb",
+          "byteLength": 166032,
+          "sha256": "9a2ceb466de81ead0dd33921e1ae92eb6ea9d1f5edacb0ad874aa9c08d613c2a",
+          "triangleCount": 8057,
+          "vertexCount": 7730
+        }
+      ]
+    },
+    {
+      "id": "p_225218949092fbbaf284c0ed",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.662517547607422,
+          -14.399999618530273,
+          2.9063005447387695
+        ],
+        "max": [
+          22.65606117248535,
+          -14.030294418334961,
+          4.817806720733643
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_225218949092fbbaf284c0ed/coarse.glb",
+          "byteLength": 10396,
+          "sha256": "ca3e42e3ec9dd4bda7332e094669bc814dbbe11e5e4dfc12ae923f91f9e6763e",
+          "triangleCount": 536,
+          "vertexCount": 408
+        }
+      ]
+    },
+    {
+      "id": "p_22ed2a3f5214b5d6d174e615",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          3.5999999046325684,
+          -2.878077983856201
+        ],
+        "max": [
+          21.600000381469727,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_22ed2a3f5214b5d6d174e615/coarse.glb",
+          "byteLength": 231128,
+          "sha256": "4f7dd03b7264640dcc2c588daf19f924279eb7b5b6bf4e3758f05c8765c1a33f",
+          "triangleCount": 13676,
+          "vertexCount": 9822
+        }
+      ]
+    },
+    {
+      "id": "p_23a174ef58fb6a0f561ba31d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.9467716217041,
+          0.0,
+          -2.8782544136047363
+        ],
+        "max": [
+          21.600000381469727,
+          3.5999999046325684,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_23a174ef58fb6a0f561ba31d/coarse.glb",
+          "byteLength": 328296,
+          "sha256": "8518280cf4f23ed76a7e8aeb6f947a92d087f81102d08fb0e4659a76685f16f2",
+          "triangleCount": 19684,
+          "vertexCount": 13897
+        }
+      ]
+    },
+    {
+      "id": "p_24979e126f764d7e1408d06f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -18.0,
+          -1.2302619218826294
+        ],
+        "max": [
+          3.5999999046325684,
+          -14.399999618530273,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_24979e126f764d7e1408d06f/coarse.glb",
+          "byteLength": 195312,
+          "sha256": "dc2a906ea0f62d293e1c33dddb5ec28e3e6069a5c651362389e255dcd10ae633",
+          "triangleCount": 11692,
+          "vertexCount": 8229
+        }
+      ]
+    },
+    {
+      "id": "p_24c59ea0c9527a886e9ed4f2",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          0.22971828281879425,
+          -0.9196553230285645
+        ],
+        "max": [
+          24.892885208129883,
+          3.5999999046325684,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_24c59ea0c9527a886e9ed4f2/coarse.glb",
+          "byteLength": 116840,
+          "sha256": "53dd9535a5bf6dfd846f40aa71da221476fd669c4fea7b85f43a02b2c6387aaf",
+          "triangleCount": 6727,
+          "vertexCount": 4983
+        }
+      ]
+    },
+    {
+      "id": "p_2791bb7f01dd70918ad83a74",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.010639190673828,
+          -7.250891208648682,
+          10.096612930297852
+        ],
+        "max": [
+          18.33125114440918,
+          -7.199999809265137,
+          10.1172513961792
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_2791bb7f01dd70918ad83a74/coarse.glb",
+          "byteLength": 1688,
+          "sha256": "91b07da3e4f5be6ba0775d17b23a7b228590adfad46a5c1ec7e69d694366abff",
+          "triangleCount": 24,
+          "vertexCount": 33
+        }
+      ]
+    },
+    {
+      "id": "p_2bf1a014ca3f44ca82248592",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -10.800000190734863,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          -7.199999809265137,
+          2.7550179958343506
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_2bf1a014ca3f44ca82248592/coarse.glb",
+          "byteLength": 187584,
+          "sha256": "7d46789d42d0fb8824032e8e4a0d882cee3675df7501ef44e735661e26b00bc8",
+          "triangleCount": 10884,
+          "vertexCount": 8036
+        }
+      ]
+    },
+    {
+      "id": "p_2e4f6297f18a153618591b05_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          6.312469005584717,
+          -0.7200000286102295
+        ],
+        "max": [
+          12.573421478271484,
+          7.199999809265137,
+          2.5633816719055176
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_2e4f6297f18a153618591b05_0/coarse.glb",
+          "byteLength": 112952,
+          "sha256": "bbf4a92d5bcd59241f14a3d049d18cf630dfe37803cc12a7800749b34d9be8b2",
+          "triangleCount": 6641,
+          "vertexCount": 4758
+        }
+      ]
+    },
+    {
+      "id": "p_2e4f6297f18a153618591b05_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          12.56456184387207,
+          6.043617248535156,
+          -0.7200000286102295
+        ],
+        "max": [
+          14.399999618530273,
+          7.199999809265137,
+          2.5705127716064453
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_2e4f6297f18a153618591b05_1/coarse.glb",
+          "byteLength": 181216,
+          "sha256": "c6e2f4b1002264abc931f53d33a53df51141a3fd1c5c4af55d36a09f30830a99",
+          "triangleCount": 10887,
+          "vertexCount": 7610
+        }
+      ]
+    },
+    {
+      "id": "p_2fb540c19da880aa4f45529d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          0.0,
+          -1.579721212387085
+        ],
+        "max": [
+          3.411656618118286,
+          3.5999999046325684,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_2fb540c19da880aa4f45529d/coarse.glb",
+          "byteLength": 148560,
+          "sha256": "dc1c069b104adbf16223f926ed84a7f634e4d0b6d85ec6c17cfd368c19c6a777",
+          "triangleCount": 8604,
+          "vertexCount": 6349
+        }
+      ]
+    },
+    {
+      "id": "p_300d95d9d952d21734af9c7e",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -10.800000190734863,
+          6.480000019073486
+        ],
+        "max": [
+          10.800000190734863,
+          -7.199999809265137,
+          7.9200663566589355
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_300d95d9d952d21734af9c7e/coarse.glb",
+          "byteLength": 51304,
+          "sha256": "0f9ac052c8c6ed3dcad4c00b9784808ad680593ff4685c3b54ee9c94c598a1ce",
+          "triangleCount": 2644,
+          "vertexCount": 2247
+        }
+      ]
+    },
+    {
+      "id": "p_3059589bfb1c320f8636aa5d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.936120986938477,
+          0.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          3.5999999046325684,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_3059589bfb1c320f8636aa5d/coarse.glb",
+          "byteLength": 483120,
+          "sha256": "5f673b93d1f6e4381a885048decfb08ec92ca5cb6bedb58f9c3b4f643ff087d9",
+          "triangleCount": 29007,
+          "vertexCount": 20489
+        }
+      ]
+    },
+    {
+      "id": "p_306f71ac499b12eb6d42e38b_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -10.800000190734863,
+          -0.5987988710403442
+        ],
+        "max": [
+          16.279735565185547,
+          -8.202157020568848,
+          2.462388277053833
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_306f71ac499b12eb6d42e38b_0/coarse.glb",
+          "byteLength": 137232,
+          "sha256": "6d441729ea5bc8f8986169348f9f1873e89908510b7c4728f71068871d76460c",
+          "triangleCount": 8109,
+          "vertexCount": 5789
+        }
+      ]
+    },
+    {
+      "id": "p_306f71ac499b12eb6d42e38b_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          16.270875930786133,
+          -10.800000190734863,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          -8.184438705444336,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_306f71ac499b12eb6d42e38b_1/coarse.glb",
+          "byteLength": 184312,
+          "sha256": "be5d064219fa67e9397c16e35a4d32a135a7ad66951ae382841ff80030cd3d58",
+          "triangleCount": 10972,
+          "vertexCount": 7783
+        }
+      ]
+    },
+    {
+      "id": "p_306f71ac499b12eb6d42e38b_2",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -8.211016654968262,
+          -0.5968931913375854
+        ],
+        "max": [
+          16.448062896728516,
+          -7.199999809265137,
+          2.468369245529175
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_306f71ac499b12eb6d42e38b_2/coarse.glb",
+          "byteLength": 192140,
+          "sha256": "5302cba21e60d67c02e533b35fb607d617083764ad3b7b8e7dbc8f4fce0f2c69",
+          "triangleCount": 11689,
+          "vertexCount": 8017
+        }
+      ]
+    },
+    {
+      "id": "p_306f71ac499b12eb6d42e38b_3",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          16.439205169677734,
+          -8.21987533569336,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          -7.199999809265137,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_306f71ac499b12eb6d42e38b_3/coarse.glb",
+          "byteLength": 181300,
+          "sha256": "b8a6cb072bbdb3ddebeb80a38d5cf013106b67b114a100c9127f09e1f6175d5b",
+          "triangleCount": 11146,
+          "vertexCount": 7513
+        }
+      ]
+    },
+    {
+      "id": "p_319157d67f3e7bcfea5c1eff",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -3.5999999046325684,
+          2.880000114440918
+        ],
+        "max": [
+          6.087543487548828,
+          0.0,
+          5.658188819885254
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_319157d67f3e7bcfea5c1eff/coarse.glb",
+          "byteLength": 341148,
+          "sha256": "febd22535a054144b3541a67568efc971d08cbc03c40fe0274ad9fd4b4a3c81c",
+          "triangleCount": 20581,
+          "vertexCount": 14395
+        }
+      ]
+    },
+    {
+      "id": "p_31e45cc508215ea0823370b0_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          7.199999809265137,
+          -2.0625839233398438
+        ],
+        "max": [
+          1.9677895307540894,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_31e45cc508215ea0823370b0_0/coarse.glb",
+          "byteLength": 143960,
+          "sha256": "909bd8a66fc1b3816e7085d0e4c97f7d7c809dd329745bdd229439e5ca38e19b",
+          "triangleCount": 8309,
+          "vertexCount": 6158
+        }
+      ]
+    },
+    {
+      "id": "p_31e45cc508215ea0823370b0_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          1.967034935951233,
+          7.199999809265137,
+          -1.795387864112854
+        ],
+        "max": [
+          3.5999999046325684,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_31e45cc508215ea0823370b0_1/coarse.glb",
+          "byteLength": 110868,
+          "sha256": "4d2f8cbd7a639ddc5177dc2ff7eb84dcd85bd590e90f0145fffcbb90fd1f04c7",
+          "triangleCount": 6526,
+          "vertexCount": 4665
+        }
+      ]
+    },
+    {
+      "id": "p_3340ea5a8e25d4d3acbbe4d6",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          24.958389282226562,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_3340ea5a8e25d4d3acbbe4d6/coarse.glb",
+          "byteLength": 396148,
+          "sha256": "48e3279f31c6b09c220b669ab7365da72d44053a6b52cc1051325f16bc33d679",
+          "triangleCount": 20821,
+          "vertexCount": 17967
+        }
+      ]
+    },
+    {
+      "id": "p_34b7ada058a1c1fc82396d23",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -14.399999618530273,
+          -0.7200000286102295
+        ],
+        "max": [
+          25.200000762939453,
+          -10.800000190734863,
+          1.4215035438537598
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_34b7ada058a1c1fc82396d23/coarse.glb",
+          "byteLength": 438160,
+          "sha256": "37f1afb452d3546002d3c35ac4b92d2d3225bd8db9cf4a2e123e3bcddc99cd8b",
+          "triangleCount": 27382,
+          "vertexCount": 18142
+        }
+      ]
+    },
+    {
+      "id": "p_354869ef604460c756549bda",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -7.199999809265137,
+          -0.5863204598426819
+        ],
+        "max": [
+          14.398667335510254,
+          -6.699671745300293,
+          2.4768619537353516
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_354869ef604460c756549bda/coarse.glb",
+          "byteLength": 273780,
+          "sha256": "f6e671adc84eaf9dbb0c9987fac07c18a5e132a430153c6d77cc28ed6d2d5e16",
+          "triangleCount": 16893,
+          "vertexCount": 11334
+        }
+      ]
+    },
+    {
+      "id": "p_35cfd36fc1e68bed444a153d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          -3.5999999046325684,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_35cfd36fc1e68bed444a153d/coarse.glb",
+          "byteLength": 407396,
+          "sha256": "54ed617ecf4522af5622d123e52817e26beac719ff5f3304935bf6044935f46a",
+          "triangleCount": 24799,
+          "vertexCount": 17124
+        }
+      ]
+    },
+    {
+      "id": "p_389e1187a5e427696c4c246a",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -14.399999618530273,
+          10.079999923706055
+        ],
+        "max": [
+          10.699213027954102,
+          -11.832969665527344,
+          12.740766525268555
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_389e1187a5e427696c4c246a/coarse.glb",
+          "byteLength": 67128,
+          "sha256": "fe3bd0c38cf43755a9784aea6acc6a4b120f1c2b663b0a6d8fc1cd2ecb271230",
+          "triangleCount": 3269,
+          "vertexCount": 3052
+        }
+      ]
+    },
+    {
+      "id": "p_395eb94da0241eede5dd7c24",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.828444480895996,
+          -3.5999999046325684,
+          7.615316390991211
+        ],
+        "max": [
+          9.110967636108398,
+          0.0,
+          8.111211776733398
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_395eb94da0241eede5dd7c24/coarse.glb",
+          "byteLength": 22752,
+          "sha256": "6d7a88cf7b9997920b9851b7fcf7a510b21f7e48d28df809721630e1c6822469",
+          "triangleCount": 932,
+          "vertexCount": 1030
+        }
+      ]
+    },
+    {
+      "id": "p_3bc43840bd485d2355c2a273_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          9.389721870422363,
+          2.5602400302886963
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_3bc43840bd485d2355c2a273_0/coarse.glb",
+          "byteLength": 237872,
+          "sha256": "27ad5d54524e0252504e87c7cc6e272b3a0240477491942ce200005a416163d6",
+          "triangleCount": 14284,
+          "vertexCount": 10028
+        }
+      ]
+    },
+    {
+      "id": "p_3bc43840bd485d2355c2a273_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          9.372007369995117,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_3bc43840bd485d2355c2a273_1/coarse.glb",
+          "byteLength": 294628,
+          "sha256": "2623a8346ff04033b873a3183321f4ed7a2d992d97bd45bc7b0bf520dd37171a",
+          "triangleCount": 17273,
+          "vertexCount": 12616
+        }
+      ]
+    },
+    {
+      "id": "p_3cff16b015f516f641bb4f7b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.1710369884967804,
+          -16.757902145385742,
+          10.079999923706055
+        ],
+        "max": [
+          2.2703418731689453,
+          -14.634156227111816,
+          11.575676918029785
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_3cff16b015f516f641bb4f7b/coarse.glb",
+          "byteLength": 3168,
+          "sha256": "7d52c5c5f0b5970fff1b9391699ca71b960104490735a2682d2bdb22ee431bea",
+          "triangleCount": 89,
+          "vertexCount": 104
+        }
+      ]
+    },
+    {
+      "id": "p_402f607e398ee8a526f08a93",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -7.199999809265137,
+          10.081459045410156
+        ],
+        "max": [
+          18.481670379638672,
+          -6.468677997589111,
+          10.142332077026367
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_402f607e398ee8a526f08a93/coarse.glb",
+          "byteLength": 19720,
+          "sha256": "250814310c43f0135506b147a5ba7f97bf9187e2e3173be5483d940038bdfa76",
+          "triangleCount": 1042,
+          "vertexCount": 784
+        }
+      ]
+    },
+    {
+      "id": "p_41eb006417074e9f4775859a",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          7.199999809265137,
+          -1.0126392841339111
+        ],
+        "max": [
+          25.200000762939453,
+          10.800000190734863,
+          -0.8941937685012817
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_41eb006417074e9f4775859a/coarse.glb",
+          "byteLength": 125308,
+          "sha256": "f0250c1718e3477f45fd3e18450c4774c212b7d6479ba49d6037d8c9223d1a20",
+          "triangleCount": 7238,
+          "vertexCount": 5387
+        }
+      ]
+    },
+    {
+      "id": "p_468a5b0a057f2deacf0a20e7",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.64581298828125,
+          7.199999809265137,
+          2.880000114440918
+        ],
+        "max": [
+          21.39613914489746,
+          8.982963562011719,
+          3.2148897647857666
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_468a5b0a057f2deacf0a20e7/coarse.glb",
+          "byteLength": 55420,
+          "sha256": "c741054db327c36109c375294239f12b1b8f4ea5187f9fcd5448090d3e1f6e2a",
+          "triangleCount": 3294,
+          "vertexCount": 2262
+        }
+      ]
+    },
+    {
+      "id": "p_4793b54b0e3a6b33fb218a4d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          3.5999999046325684,
+          -0.9753420352935791
+        ],
+        "max": [
+          25.200000762939453,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_4793b54b0e3a6b33fb218a4d/coarse.glb",
+          "byteLength": 182368,
+          "sha256": "925c1ff6aeb26dd301a20e6a193db8e50d20b52e32eb2573c7b149c004e91b46",
+          "triangleCount": 10569,
+          "vertexCount": 7815
+        }
+      ]
+    },
+    {
+      "id": "p_49a921391fb5725fda306725",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          7.199999809265137,
+          -0.984563946723938
+        ],
+        "max": [
+          21.600000381469727,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_49a921391fb5725fda306725/coarse.glb",
+          "byteLength": 134760,
+          "sha256": "cea1e47301a25dd395931ca10a710b1754afeff946e5f954ee71e78f64c9b648",
+          "triangleCount": 7748,
+          "vertexCount": 5770
+        }
+      ]
+    },
+    {
+      "id": "p_4a46356a85b7437ef946f8e4",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -14.399999618530273,
+          2.880000114440918
+        ],
+        "max": [
+          7.199999809265137,
+          -10.800000190734863,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_4a46356a85b7437ef946f8e4/coarse.glb",
+          "byteLength": 644056,
+          "sha256": "7843db1737d019e31a8d4d310f045861872ecd1e86129629911d2c4e679f48fb",
+          "triangleCount": 34649,
+          "vertexCount": 28961
+        }
+      ]
+    },
+    {
+      "id": "p_4c6a4746dea897b616665099",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          5.816171646118164,
+          3.534578323364258,
+          -1.4724351167678833
+        ],
+        "max": [
+          6.438168525695801,
+          3.5999999046325684,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_4c6a4746dea897b616665099/coarse.glb",
+          "byteLength": 32456,
+          "sha256": "a38128d93bcd9e762c2690a3736feae4fb9c40e152ddba15bd865abee86f41e4",
+          "triangleCount": 1829,
+          "vertexCount": 1360
+        }
+      ]
+    },
+    {
+      "id": "p_4d4488ac9dec9e7329509e0f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -10.800000190734863,
+          2.880000114440918
+        ],
+        "max": [
+          18.0,
+          -7.199999809265137,
+          7.957551002502441
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_4d4488ac9dec9e7329509e0f/coarse.glb",
+          "byteLength": 6975204,
+          "sha256": "668480b91274f815601050da2366a63348f52b8b44fdf61272e8faa51f4b8eec",
+          "triangleCount": 299678,
+          "vertexCount": 225154
+        }
+      ]
+    },
+    {
+      "id": "p_5090f4c76ec5c2a4eeac1e96",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          3.5999999046325684,
+          2.880000114440918
+        ],
+        "max": [
+          7.199999809265137,
+          7.199999809265137,
+          5.709531307220459
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_5090f4c76ec5c2a4eeac1e96/coarse.glb",
+          "byteLength": 220632,
+          "sha256": "333f1f12e8168c868da381e33e3e206dfc1facd83d8b5439b06b6e1ebbff3866",
+          "triangleCount": 13283,
+          "vertexCount": 9280
+        }
+      ]
+    },
+    {
+      "id": "p_51db23b8b5559db198b22be1_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          2.4276909828186035,
+          -0.7200000286102295
+        ],
+        "max": [
+          6.437396049499512,
+          3.5999999046325684,
+          1.1597161293029785
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_51db23b8b5559db198b22be1_0/coarse.glb",
+          "byteLength": 154580,
+          "sha256": "76ee4b9f40f4fd3b3c1c7f7e4beadc05e4fc7cf49f154118af7fd7b34ede402d",
+          "triangleCount": 9168,
+          "vertexCount": 6522
+        }
+      ]
+    },
+    {
+      "id": "p_51db23b8b5559db198b22be1_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          2.428154945373535,
+          1.1508586406707764
+        ],
+        "max": [
+          6.425991058349609,
+          3.5999999046325684,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_51db23b8b5559db198b22be1_1/coarse.glb",
+          "byteLength": 150764,
+          "sha256": "5fa357c98c8cacdcd015a2b8cdae61a2648b98f09efde6b5e8e42a5417a71254",
+          "triangleCount": 9026,
+          "vertexCount": 6325
+        }
+      ]
+    },
+    {
+      "id": "p_51db23b8b5559db198b22be1_2",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          0.0,
+          -0.6312477588653564
+        ],
+        "max": [
+          6.241233825683594,
+          2.4382269382476807,
+          1.0268561840057373
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_51db23b8b5559db198b22be1_2/coarse.glb",
+          "byteLength": 239724,
+          "sha256": "078794ca431fc1d22873f8c07e6c0d41815b1dd1171536d7d6a301c20aa783b8",
+          "triangleCount": 14102,
+          "vertexCount": 10225
+        }
+      ]
+    },
+    {
+      "id": "p_51db23b8b5559db198b22be1_3",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          0.0,
+          1.0226631164550781
+        ],
+        "max": [
+          6.264890670776367,
+          2.4382269382476807,
+          2.577895164489746
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_51db23b8b5559db198b22be1_3/coarse.glb",
+          "byteLength": 347264,
+          "sha256": "cc1fb14f8885e666da2daac9d756aa290f30faa71e2e862b163adb4fe1665907",
+          "triangleCount": 20363,
+          "vertexCount": 14890
+        }
+      ]
+    },
+    {
+      "id": "p_52bca7bb89f73a69b7cd9be2",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.700483322143555,
+          -14.399999618530273,
+          10.079999923706055
+        ],
+        "max": [
+          21.446805953979492,
+          -13.574316024780273,
+          11.899892807006836
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_52bca7bb89f73a69b7cd9be2/coarse.glb",
+          "byteLength": 33232,
+          "sha256": "511cb5de5b88242ea84e3ba20eefdaaaa94e5de8b12402dafecf3abc15ee33f5",
+          "triangleCount": 1514,
+          "vertexCount": 1495
+        }
+      ]
+    },
+    {
+      "id": "p_569c15833692b712f71bb875",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -18.0,
+          6.480000019073486
+        ],
+        "max": [
+          7.199999809265137,
+          -14.399999618530273,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_569c15833692b712f71bb875/coarse.glb",
+          "byteLength": 100212,
+          "sha256": "4e0202f3d432729103f9831699a6d1338654e284cbe7fc76cda4d5513e3976aa",
+          "triangleCount": 4693,
+          "vertexCount": 4689
+        }
+      ]
+    },
+    {
+      "id": "p_56c9100f659ad8780e27cee8",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.970501899719238,
+          -7.199999809265137,
+          6.480000019073486
+        ],
+        "max": [
+          18.0,
+          -5.682937145233154,
+          7.908586025238037
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_56c9100f659ad8780e27cee8/coarse.glb",
+          "byteLength": 18488,
+          "sha256": "8c880f30c97907c09b8a7c11df792fbbc770c71c507f2263efaf2a8360c87786",
+          "triangleCount": 939,
+          "vertexCount": 786
+        }
+      ]
+    },
+    {
+      "id": "p_57c6648c0914fd891684b128_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -14.399999618530273,
+          -0.7200000286102295
+        ],
+        "max": [
+          14.399999618530273,
+          -11.536376953125,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_57c6648c0914fd891684b128_0/coarse.glb",
+          "byteLength": 659632,
+          "sha256": "599b5f24de3790f0ad91b7a12b44b3f7c395ea239c98ef8c1071c199609b7900",
+          "triangleCount": 41010,
+          "vertexCount": 27455
+        }
+      ]
+    },
+    {
+      "id": "p_57c6648c0914fd891684b128_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -11.545236587524414,
+          -0.7200000286102295
+        ],
+        "max": [
+          14.399999618530273,
+          -10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_57c6648c0914fd891684b128_1/coarse.glb",
+          "byteLength": 264584,
+          "sha256": "764eb9faa9e4d328f947c40da2c7cc2f9930eb29bd49db81c6bfc6b933127110",
+          "triangleCount": 16044,
+          "vertexCount": 11104
+        }
+      ]
+    },
+    {
+      "id": "p_5abe5e56108e4c1fb84fb833",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -7.199999809265137,
+          -1.487336277961731
+        ],
+        "max": [
+          3.5999999046325684,
+          -3.5999999046325684,
+          -0.9616053104400635
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_5abe5e56108e4c1fb84fb833/coarse.glb",
+          "byteLength": 139592,
+          "sha256": "e116f5b1396174a1e31d686a88687d0612c37ea9214e507898181a8898cd8f76",
+          "triangleCount": 8090,
+          "vertexCount": 5955
+        }
+      ]
+    },
+    {
+      "id": "p_5acfa100dc0c9d03c65a5485",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          2.879615068435669,
+          -1.0128004550933838,
+          2.880000114440918
+        ],
+        "max": [
+          3.5999999046325684,
+          0.0,
+          3.8485264778137207
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_5acfa100dc0c9d03c65a5485/coarse.glb",
+          "byteLength": 51824,
+          "sha256": "390482a76494e2a0ddd0991e63a7b9f48e2a58d6b277a8cc14e69d50b017ae12",
+          "triangleCount": 2990,
+          "vertexCount": 2144
+        }
+      ]
+    },
+    {
+      "id": "p_5c6cd6ccec92c9a2b6693128",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -18.0,
+          6.480000019073486
+        ],
+        "max": [
+          14.399999618530273,
+          -14.399999618530273,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_5c6cd6ccec92c9a2b6693128/coarse.glb",
+          "byteLength": 182872,
+          "sha256": "44783b958b3b4926a89a89db9c652313a0e436087877901181ccdaa67d91a991",
+          "triangleCount": 8801,
+          "vertexCount": 8556
+        }
+      ]
+    },
+    {
+      "id": "p_5d1df504e3bebeb08c2953eb",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -14.399999618530273,
+          6.480000019073486
+        ],
+        "max": [
+          17.709064483642578,
+          -12.422353744506836,
+          9.883973121643066
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_5d1df504e3bebeb08c2953eb/coarse.glb",
+          "byteLength": 64212,
+          "sha256": "f1b60c9ff35ecd647bb56148a12d9de3c1b8fe38fdcb057325e3ea8746cdd288",
+          "triangleCount": 3072,
+          "vertexCount": 2937
+        }
+      ]
+    },
+    {
+      "id": "p_5e2582338e631417cd0e1e7d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -18.0,
+          -0.7085138559341431
+        ],
+        "max": [
+          25.200000762939453,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_5e2582338e631417cd0e1e7d/coarse.glb",
+          "byteLength": 835008,
+          "sha256": "8716f823cafe4a58a04e49a0efbedf67717a213f7b2c66c453e5ee4203a274e1",
+          "triangleCount": 51214,
+          "vertexCount": 35066
+        }
+      ]
+    },
+    {
+      "id": "p_66bb7ae54687d4bd5d044f79",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.50159454345703,
+          -1.0248997211456299,
+          9.222822189331055
+        ],
+        "max": [
+          17.514625549316406,
+          -1.0067505836486816,
+          9.22599983215332
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_66bb7ae54687d4bd5d044f79/coarse.glb",
+          "byteLength": 1108,
+          "sha256": "838098b681b79282ebb0634b8489e4c0021a9deaf541b2bb4813aad630be7073",
+          "triangleCount": 1,
+          "vertexCount": 3
+        }
+      ]
+    },
+    {
+      "id": "p_69709da214d97a500bfc967c",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          5.589622497558594,
+          -0.9317924976348877
+        ],
+        "max": [
+          18.0,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_69709da214d97a500bfc967c/coarse.glb",
+          "byteLength": 214132,
+          "sha256": "a0b905c83b9a0615d101091dd45df4a0ffd5c27a4bc266f3a16697104c7092c4",
+          "triangleCount": 12772,
+          "vertexCount": 9051
+        }
+      ]
+    },
+    {
+      "id": "p_6aa33dba21580be2c23af986",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          6.070183277130127,
+          -0.97597336769104
+        ],
+        "max": [
+          14.399999618530273,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_6aa33dba21580be2c23af986/coarse.glb",
+          "byteLength": 134512,
+          "sha256": "9fdd9aef01e5f5ec554196d1562d72141e45ee0d059d3b37519533cb7be6b03f",
+          "triangleCount": 7791,
+          "vertexCount": 5735
+        }
+      ]
+    },
+    {
+      "id": "p_6d5ddb717a957dde6ab9c121",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          9.890530586242676,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_6d5ddb717a957dde6ab9c121/coarse.glb",
+          "byteLength": 444516,
+          "sha256": "8ac8a5109fe90f96e4c5967e9c8b21e6524a811a97c9a542beac7ee27fe456d3",
+          "triangleCount": 28802,
+          "vertexCount": 17998
+        }
+      ]
+    },
+    {
+      "id": "p_6f44eae2b6efa0f349733755",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.540857315063477,
+          -10.800000190734863,
+          -0.7987229824066162
+        ],
+        "max": [
+          18.0,
+          -7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_6f44eae2b6efa0f349733755/coarse.glb",
+          "byteLength": 72968,
+          "sha256": "9b72fe0426dcc6c28a74f86d5330c47b916e077eacd029fe1dd3d80c70bcaabb",
+          "triangleCount": 4177,
+          "vertexCount": 3122
+        }
+      ]
+    },
+    {
+      "id": "p_6fc4976e448569ec4b8878d0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.801173686981201,
+          -14.399999618530273,
+          -0.6452608108520508
+        ],
+        "max": [
+          7.199999809265137,
+          -10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_6fc4976e448569ec4b8878d0/coarse.glb",
+          "byteLength": 193928,
+          "sha256": "b1727a38fae1d2be2b1ccf10eb31a4700343307963120f2ae35332b69c00e6b6",
+          "triangleCount": 11359,
+          "vertexCount": 8269
+        }
+      ]
+    },
+    {
+      "id": "p_724f95cc58e1973300cc7cae_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          12.351937294006348,
+          10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_724f95cc58e1973300cc7cae_0/coarse.glb",
+          "byteLength": 271720,
+          "sha256": "a6c1050cc9d1211cb454ff3a028c1a12d75892e4d4448eec54e289fe81abb37e",
+          "triangleCount": 15900,
+          "vertexCount": 11638
+        }
+      ]
+    },
+    {
+      "id": "p_724f95cc58e1973300cc7cae_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          12.316499710083008,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          14.399999618530273,
+          10.627835273742676,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_724f95cc58e1973300cc7cae_1/coarse.glb",
+          "byteLength": 209680,
+          "sha256": "f0753abe2b34f9716209b4d8c09b6c39ef2e99b3a2bfa50daf3bbc17173603de",
+          "triangleCount": 12598,
+          "vertexCount": 8823
+        }
+      ]
+    },
+    {
+      "id": "p_735cea8e26e95c53032d6b74",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          11.029031753540039,
+          -14.399999618530273,
+          10.079999923706055
+        ],
+        "max": [
+          14.399999618530273,
+          -11.800084114074707,
+          13.680000305175781
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_735cea8e26e95c53032d6b74/coarse.glb",
+          "byteLength": 55788,
+          "sha256": "18f044a58df6e09b08d5090f845325c20ea33dec0d04e83ccf5224a27728f70f",
+          "triangleCount": 2474,
+          "vertexCount": 2614
+        }
+      ]
+    },
+    {
+      "id": "p_759b01b8c76ca1152dbe60a8",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -18.0,
+          6.480000019073486
+        ],
+        "max": [
+          10.800000190734863,
+          -14.399999618530273,
+          10.015535354614258
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_759b01b8c76ca1152dbe60a8/coarse.glb",
+          "byteLength": 88780,
+          "sha256": "08c8d2cdbaf5a4bfb77fec039a383f40b2356527189ed7457846eb8ae9aab184",
+          "triangleCount": 4106,
+          "vertexCount": 4205
+        }
+      ]
+    },
+    {
+      "id": "p_76d9cf92597ea3933f799d5c",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          6.553340911865234,
+          3.5744614601135254
+        ],
+        "max": [
+          10.800000190734863,
+          7.199999809265137,
+          5.707658290863037
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_76d9cf92597ea3933f799d5c/coarse.glb",
+          "byteLength": 240412,
+          "sha256": "754912b1a3bbbf34f92554b2c43708a198d529826d9df6d1cfa2e730a0510c93",
+          "triangleCount": 14706,
+          "vertexCount": 10029
+        }
+      ]
+    },
+    {
+      "id": "p_7911e9cc3518debf0abb19ee",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.039081573486328,
+          -15.325749397277832,
+          -0.7401449680328369
+        ],
+        "max": [
+          18.0,
+          -14.399999618530273,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7911e9cc3518debf0abb19ee/coarse.glb",
+          "byteLength": 67772,
+          "sha256": "3c0c84923a9fb668241da39f2a7e5fddc4702c1ce7d8f4810d363d29d984a094",
+          "triangleCount": 3911,
+          "vertexCount": 2882
+        }
+      ]
+    },
+    {
+      "id": "p_7b61d00c7e9b804a0b4a400f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -14.399999618530273,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          -10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7b61d00c7e9b804a0b4a400f/coarse.glb",
+          "byteLength": 295276,
+          "sha256": "d53b396339141427ce02c134e0a4aa438c82c6f49706af400d03714bf093f2eb",
+          "triangleCount": 17444,
+          "vertexCount": 12590
+        }
+      ]
+    },
+    {
+      "id": "p_7cdb2d65963956fd6969c5cc_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -18.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          14.399999618530273,
+          -14.399999618530273,
+          -0.19028067588806152
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7cdb2d65963956fd6969c5cc_0/coarse.glb",
+          "byteLength": 289228,
+          "sha256": "6684732f60c97f1dc194ea693bc9e4c8c59f29d11e7c258138fc10f81b4c01b6",
+          "triangleCount": 16818,
+          "vertexCount": 12438
+        }
+      ]
+    },
+    {
+      "id": "p_7cdb2d65963956fd6969c5cc_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          11.615338325500488,
+          -18.0,
+          -0.1933072805404663
+        ],
+        "max": [
+          14.399999618530273,
+          -14.445343971252441,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7cdb2d65963956fd6969c5cc_1/coarse.glb",
+          "byteLength": 263956,
+          "sha256": "a4b8736854a72922e6729f45c2dbbabcd661ddc3055037f6bf651461ae9d0a3d",
+          "triangleCount": 15828,
+          "vertexCount": 11150
+        }
+      ]
+    },
+    {
+      "id": "p_7d2b372283fe07ce566fb5e3",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          8.307785987854004,
+          0.0,
+          7.6510467529296875
+        ],
+        "max": [
+          10.800000190734863,
+          3.5999999046325684,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7d2b372283fe07ce566fb5e3/coarse.glb",
+          "byteLength": 47572,
+          "sha256": "92daf01a112e23d98e140c9d9eed5eb3272046fa24e562af69d6aae884e66297",
+          "triangleCount": 2080,
+          "vertexCount": 2225
+        }
+      ]
+    },
+    {
+      "id": "p_7e3de654a240d3ee3c2058fb",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.471139907836914,
+          -3.5999999046325684,
+          2.880000114440918
+        ],
+        "max": [
+          20.21194839477539,
+          0.0,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7e3de654a240d3ee3c2058fb/coarse.glb",
+          "byteLength": 729232,
+          "sha256": "3658cf1b7d79c19021d4e88d33493d3580b8b18fe681b6135a42c6aaee0030f9",
+          "triangleCount": 47691,
+          "vertexCount": 29423
+        }
+      ]
+    },
+    {
+      "id": "p_7f181ab1d4e827c0a7fca3a1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -7.199999809265137,
+          6.480000019073486
+        ],
+        "max": [
+          12.664533615112305,
+          -6.9690446853637695,
+          6.72186803817749
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_7f181ab1d4e827c0a7fca3a1/coarse.glb",
+          "byteLength": 14824,
+          "sha256": "5c5983468a641044bea2f0e25506ba85ff6a704643a5d5a160793e475c700cfb",
+          "triangleCount": 667,
+          "vertexCount": 607
+        }
+      ]
+    },
+    {
+      "id": "p_813fd88c644b08eadd52826e",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -10.800000190734863,
+          -0.8599808812141418
+        ],
+        "max": [
+          8.050046920776367,
+          -7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_813fd88c644b08eadd52826e/coarse.glb",
+          "byteLength": 109808,
+          "sha256": "106ad1e1018beb7a2f31936e06caea96e5ff03ad0546a2057144cd612102d678",
+          "triangleCount": 6473,
+          "vertexCount": 4615
+        }
+      ]
+    },
+    {
+      "id": "p_815d54df17eb2d1ef37ccf2e",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -10.800000190734863,
+          6.480000019073486
+        ],
+        "max": [
+          2.5494322776794434,
+          -9.953474044799805,
+          7.916845321655273
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_815d54df17eb2d1ef37ccf2e/coarse.glb",
+          "byteLength": 16724,
+          "sha256": "36ac45dea8fa7ee3ed069eea4a65456963c26b875bb6dd6247f4c84088f10767",
+          "triangleCount": 818,
+          "vertexCount": 674
+        }
+      ]
+    },
+    {
+      "id": "p_81b56685e0724578d73d9dae",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -17.988677978515625,
+          6.480000019073486
+        ],
+        "max": [
+          3.5999999046325684,
+          -14.399999618530273,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_81b56685e0724578d73d9dae/coarse.glb",
+          "byteLength": 155988,
+          "sha256": "2bf1c7593a56202123ae07af8067425884667990da0fcba3310e4b6ae7efe539",
+          "triangleCount": 7501,
+          "vertexCount": 7284
+        }
+      ]
+    },
+    {
+      "id": "p_83f4354923a7df9e0dd078a1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -14.399999618530273,
+          -1.4806790351867676
+        ],
+        "max": [
+          3.5999999046325684,
+          -10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_83f4354923a7df9e0dd078a1/coarse.glb",
+          "byteLength": 236652,
+          "sha256": "213a13f661d4f5498ca24f2b016d344568304f26625cd3eabe625ec25ef0e385",
+          "triangleCount": 13949,
+          "vertexCount": 10081
+        }
+      ]
+    },
+    {
+      "id": "p_858e57567cdf7f3bdc412481_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          3.5999999046325684,
+          -2.38097882270813
+        ],
+        "max": [
+          6.852437973022461,
+          5.382281303405762,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_858e57567cdf7f3bdc412481_0/coarse.glb",
+          "byteLength": 204068,
+          "sha256": "b07eaa450114c9b968a4403fd4f4da6e8e51bcc6c416465d440a3945ac83b5fe",
+          "triangleCount": 12110,
+          "vertexCount": 8644
+        }
+      ]
+    },
+    {
+      "id": "p_858e57567cdf7f3bdc412481_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          5.346843719482422,
+          -2.382009506225586
+        ],
+        "max": [
+          7.199999809265137,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_858e57567cdf7f3bdc412481_1/coarse.glb",
+          "byteLength": 202232,
+          "sha256": "bb974d7aad60c78a5c3b53e85710f001d947389a7a76ceb3d4949428c0be55be",
+          "triangleCount": 12083,
+          "vertexCount": 8533
+        }
+      ]
+    },
+    {
+      "id": "p_88ac20b8de6bb1829f29aad7",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -3.5999999046325684,
+          -0.7200000286102295
+        ],
+        "max": [
+          5.9309892654418945,
+          0.0,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_88ac20b8de6bb1829f29aad7/coarse.glb",
+          "byteLength": 497832,
+          "sha256": "0839177988e96a54bd165bd8195a8c644bb2793f9e79b261590464126ed23a68",
+          "triangleCount": 29864,
+          "vertexCount": 21127
+        }
+      ]
+    },
+    {
+      "id": "p_89f3bdb78c906a6cc2ad9069",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -10.800000190734863,
+          -1.3193209171295166
+        ],
+        "max": [
+          7.199999809265137,
+          -7.199999809265137,
+          -0.8205591440200806
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_89f3bdb78c906a6cc2ad9069/coarse.glb",
+          "byteLength": 161260,
+          "sha256": "8ccbeef238503f3b93e7be1c98b3dc89ab5662441ecf86a5e9b4c38bd0828584",
+          "triangleCount": 9514,
+          "vertexCount": 6829
+        }
+      ]
+    },
+    {
+      "id": "p_8cc09ce9193a992a35f863eb",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -18.0,
+          -0.8124935626983643
+        ],
+        "max": [
+          12.658126831054688,
+          -14.399999618530273,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_8cc09ce9193a992a35f863eb/coarse.glb",
+          "byteLength": 160356,
+          "sha256": "19a1b78779b0ace4945aa8cdfa9a4d1bc544c8f8e0ba53aa7b2601410b7ca091",
+          "triangleCount": 9225,
+          "vertexCount": 6885
+        }
+      ]
+    },
+    {
+      "id": "p_8d35e4fa4420deecc4c2c585",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.505695104598999,
+          3.5999999046325684,
+          2.880000114440918
+        ],
+        "max": [
+          3.5999999046325684,
+          3.6099319458007812,
+          3.858367443084717
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_8d35e4fa4420deecc4c2c585/coarse.glb",
+          "byteLength": 18300,
+          "sha256": "80ab815705e42a27914e193e28d70cf5173cf43f01aa503ad071d500fa2164b1",
+          "triangleCount": 1013,
+          "vertexCount": 743
+        }
+      ]
+    },
+    {
+      "id": "p_8dccdb979027c863d20556db",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.129968643188477,
+          -3.5999999046325684,
+          6.480000019073486
+        ],
+        "max": [
+          19.787134170532227,
+          0.0,
+          8.702068328857422
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_8dccdb979027c863d20556db/coarse.glb",
+          "byteLength": 350160,
+          "sha256": "90f515b61f7264f674fedbb21e8fa7b632a3a374aa8f2f0a7c09f8be1f5f5a98",
+          "triangleCount": 21327,
+          "vertexCount": 14697
+        }
+      ]
+    },
+    {
+      "id": "p_8e2d9003acefb7c4b613f76e",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -18.0,
+          -0.8796069622039795
+        ],
+        "max": [
+          10.800000190734863,
+          -14.399999618530273,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_8e2d9003acefb7c4b613f76e/coarse.glb",
+          "byteLength": 200052,
+          "sha256": "d32ab0227d1f77da4302cee763b1f019a73642d71b4ba2dc0d9990f3495d62fa",
+          "triangleCount": 11737,
+          "vertexCount": 8526
+        }
+      ]
+    },
+    {
+      "id": "p_8f0ef8b5c1c040650ade748b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          3.5999999046325684,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_8f0ef8b5c1c040650ade748b/coarse.glb",
+          "byteLength": 135800,
+          "sha256": "b2a6390f100c851fbead1219ea6c47344e1e3ac9584559aefb7f7d9ffae0b7b7",
+          "triangleCount": 7087,
+          "vertexCount": 6104
+        }
+      ]
+    },
+    {
+      "id": "p_8f2c2cd6486dd2bc3c06dff6",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -14.399999618530273,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          -10.800000190734863,
+          2.642052412033081
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_8f2c2cd6486dd2bc3c06dff6/coarse.glb",
+          "byteLength": 375904,
+          "sha256": "d2d9a66da65ac150a906047e3eb4ed3fae1ce621cdd01554d88d8962ee001345",
+          "triangleCount": 23064,
+          "vertexCount": 15720
+        }
+      ]
+    },
+    {
+      "id": "p_90dbe90eed6decfb788ef4f9",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -10.800000190734863,
+          -0.6328009963035583
+        ],
+        "max": [
+          25.200000762939453,
+          -7.199999809265137,
+          1.4849549531936646
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_90dbe90eed6decfb788ef4f9/coarse.glb",
+          "byteLength": 265992,
+          "sha256": "77654d7c39b12bc2ed99b19fd815ffc44e74fa1a3feb913f982bd5233510619a",
+          "triangleCount": 16745,
+          "vertexCount": 10919
+        }
+      ]
+    },
+    {
+      "id": "p_91a6dcb2ac27c33c07edc961",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          19.843791961669922,
+          -14.399999618530273,
+          6.554525852203369
+        ],
+        "max": [
+          21.586265563964844,
+          -13.682634353637695,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_91a6dcb2ac27c33c07edc961/coarse.glb",
+          "byteLength": 47572,
+          "sha256": "2967f032450226516330a34efb745a664d572a52fe8ec63275a3a24401b2f207",
+          "triangleCount": 2314,
+          "vertexCount": 2132
+        }
+      ]
+    },
+    {
+      "id": "p_923e3839b399e1b72a7b5e7f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.008269786834717,
+          -10.800000190734863,
+          2.6361277103424072
+        ],
+        "max": [
+          7.199999809265137,
+          -9.406936645507812,
+          2.687922954559326
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_923e3839b399e1b72a7b5e7f/coarse.glb",
+          "byteLength": 15532,
+          "sha256": "fe7bf05f18b44a0a79be573f3f63e8ba80f4b9d888df061f9291711fdb633237",
+          "triangleCount": 800,
+          "vertexCount": 601
+        }
+      ]
+    },
+    {
+      "id": "p_926d71fc39a8dde3c3dec769",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          4.324794769287109,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          7.199999809265137,
+          10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_926d71fc39a8dde3c3dec769/coarse.glb",
+          "byteLength": 118380,
+          "sha256": "b9cf1d9196b494a39b694d0fcd050c63b074f3972cec9c6070b49d5e3f42a0b6",
+          "triangleCount": 6736,
+          "vertexCount": 5082
+        }
+      ]
+    },
+    {
+      "id": "p_93fac7e860067d2045f48f20",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -14.399999618530273,
+          10.421931266784668
+        ],
+        "max": [
+          17.826616287231445,
+          -13.804076194763184,
+          12.58161735534668
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_93fac7e860067d2045f48f20/coarse.glb",
+          "byteLength": 9772,
+          "sha256": "306e099e1ae93d1cb18b1b392511d404800a8766b5e144056bc83533f9f6b87a",
+          "triangleCount": 431,
+          "vertexCount": 407
+        }
+      ]
+    },
+    {
+      "id": "p_969c8b1e562763e9788cd169",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.66026496887207,
+          -18.0,
+          10.079999923706055
+        ],
+        "max": [
+          25.200000762939453,
+          -14.399999618530273,
+          13.206291198730469
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_969c8b1e562763e9788cd169/coarse.glb",
+          "byteLength": 53792,
+          "sha256": "ab142cea6f5f944de85b321f27b4ef72c58d38a27a1a359980b8e040d8804d5f",
+          "triangleCount": 2424,
+          "vertexCount": 2546
+        }
+      ]
+    },
+    {
+      "id": "p_9890f8dc57bec40d3ea76342",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          9.82974910736084,
+          1.7203961610794067,
+          10.079999923706055
+        ],
+        "max": [
+          10.800000190734863,
+          2.929502010345459,
+          11.0549898147583
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9890f8dc57bec40d3ea76342/coarse.glb",
+          "byteLength": 17272,
+          "sha256": "f4a87ecc648d7536c56c0e9ef94a642cf03974b489e79f4fb30c9751fb8d4570",
+          "triangleCount": 694,
+          "vertexCount": 759
+        }
+      ]
+    },
+    {
+      "id": "p_996c027d910c32c56389c9cf",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.820127487182617,
+          -7.199999809265137,
+          10.087427139282227
+        ],
+        "max": [
+          18.0,
+          -6.480360507965088,
+          10.120633125305176
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_996c027d910c32c56389c9cf/coarse.glb",
+          "byteLength": 3584,
+          "sha256": "2260fb78dfe1b7b3841f42cfd4917c20a02ee3f99effad4d68bda4aa2a6750e5",
+          "triangleCount": 123,
+          "vertexCount": 119
+        }
+      ]
+    },
+    {
+      "id": "p_99d27cfa48abf2d3cc038304",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -7.199999809265137,
+          -0.8561373949050903
+        ],
+        "max": [
+          8.197802543640137,
+          -5.9984564781188965,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_99d27cfa48abf2d3cc038304/coarse.glb",
+          "byteLength": 56516,
+          "sha256": "d1b334d87e324769cabde137451124e95ad902b9819427dea193d5756ece98d4",
+          "triangleCount": 3287,
+          "vertexCount": 2337
+        }
+      ]
+    },
+    {
+      "id": "p_9adaf5658abab14fb37d3e08",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -10.800000190734863,
+          2.880000114440918
+        ],
+        "max": [
+          10.800000190734863,
+          -7.199999809265137,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9adaf5658abab14fb37d3e08/coarse.glb",
+          "byteLength": 465132,
+          "sha256": "50a9b4a05734b98d955ff1917e1cd9fe0b5030da6642e890294e43b82031841d",
+          "triangleCount": 27510,
+          "vertexCount": 19888
+        }
+      ]
+    },
+    {
+      "id": "p_9b07514f0f4bf2ba955c5044",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.856895446777344,
+          5.378774166107178,
+          3.68741774559021
+        ],
+        "max": [
+          24.38422393798828,
+          5.504270076751709,
+          3.7090437412261963
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9b07514f0f4bf2ba955c5044/coarse.glb",
+          "byteLength": 5604,
+          "sha256": "621b3162dcfe4833b071a7b67e353875005cc06974b81ca3217ab731f45fbe42",
+          "triangleCount": 223,
+          "vertexCount": 214
+        }
+      ]
+    },
+    {
+      "id": "p_9bd1318ff2e94c1cf3cf9919",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -18.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          7.199999809265137,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9bd1318ff2e94c1cf3cf9919/coarse.glb",
+          "byteLength": 229020,
+          "sha256": "826857c579106a47b6c0caada1a1b54d62f46fa8d919e9421580aa7c6c843133",
+          "triangleCount": 12611,
+          "vertexCount": 10108
+        }
+      ]
+    },
+    {
+      "id": "p_9cf219d52eb27c561e2a4003",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          3.5999999046325684,
+          2.880000114440918
+        ],
+        "max": [
+          21.580738067626953,
+          7.199999809265137,
+          5.841275215148926
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9cf219d52eb27c561e2a4003/coarse.glb",
+          "byteLength": 486900,
+          "sha256": "97869fb7297cad1bf3db124d52402d9e15641cfc3ddd4d0ff49ebde775518b00",
+          "triangleCount": 29520,
+          "vertexCount": 20537
+        }
+      ]
+    },
+    {
+      "id": "p_9dd0b8a66d7fceb98e1b07d4",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.109737396240234,
+          -3.5999999046325684,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          0.0,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9dd0b8a66d7fceb98e1b07d4/coarse.glb",
+          "byteLength": 327500,
+          "sha256": "79658021c6a05f837077b28ab61a22db333c0935d71d4af9217f7255700fbf01",
+          "triangleCount": 20021,
+          "vertexCount": 13709
+        }
+      ]
+    },
+    {
+      "id": "p_9e28084a27b8624a1c3d3570",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.443702697753906,
+          -7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          -4.4773030281066895,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9e28084a27b8624a1c3d3570/coarse.glb",
+          "byteLength": 104756,
+          "sha256": "08eca7b74ca30afb42f42307eef1a72671bae2984269ba2ebf5252301a83c560",
+          "triangleCount": 5894,
+          "vertexCount": 4511
+        }
+      ]
+    },
+    {
+      "id": "p_9f10843cf1da875fc52bca5c",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          5.877382278442383,
+          7.199999809265137,
+          2.880000114440918
+        ],
+        "max": [
+          7.199999809265137,
+          10.593947410583496,
+          5.855330944061279
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_9f10843cf1da875fc52bca5c/coarse.glb",
+          "byteLength": 63084,
+          "sha256": "260f1f1a7445befc3e604f5f14925ca6523808a84879b8d0ce940c9bcd60e5d4",
+          "triangleCount": 3447,
+          "vertexCount": 2712
+        }
+      ]
+    },
+    {
+      "id": "p_a32b5d24d5216825833090c9",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.970928192138672,
+          -7.199999809265137,
+          2.880000114440918
+        ],
+        "max": [
+          18.0,
+          -7.099177360534668,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a32b5d24d5216825833090c9/coarse.glb",
+          "byteLength": 42784,
+          "sha256": "6d3ecdc189a850b006f12762ffd58b2c4ddc28fb11ddb51fdeac23947cdce4f2",
+          "triangleCount": 2403,
+          "vertexCount": 1820
+        }
+      ]
+    },
+    {
+      "id": "p_a6201aee145c15167d893339",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -14.089985847473145,
+          10.079999923706055
+        ],
+        "max": [
+          7.199999809265137,
+          -12.038549423217773,
+          13.172032356262207
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a6201aee145c15167d893339/coarse.glb",
+          "byteLength": 89660,
+          "sha256": "d4c9c068a39e879240a080dca3f54984f96211c6849a265bd86053ec0589b1c2",
+          "triangleCount": 4322,
+          "vertexCount": 4133
+        }
+      ]
+    },
+    {
+      "id": "p_a651724b04d10fc1e8054093",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -3.5999999046325684,
+          -1.1308624744415283
+        ],
+        "max": [
+          5.879141330718994,
+          -0.7155608534812927,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a651724b04d10fc1e8054093/coarse.glb",
+          "byteLength": 170668,
+          "sha256": "449860d914c8466b11d4a95e9cfef52c8399f1547be51956ae0322ba035601b4",
+          "triangleCount": 10105,
+          "vertexCount": 7219
+        }
+      ]
+    },
+    {
+      "id": "p_a6598760a618763dedcfcb66",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          2.3195388317108154,
+          7.060006141662598
+        ],
+        "max": [
+          14.399999618530273,
+          3.5727169513702393,
+          10.046468734741211
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a6598760a618763dedcfcb66/coarse.glb",
+          "byteLength": 47616,
+          "sha256": "3e5f43652c5711548c938a73da80f9bc9cb209a7c5c6fa1ea31988fae135be09",
+          "triangleCount": 2115,
+          "vertexCount": 2213
+        }
+      ]
+    },
+    {
+      "id": "p_a6a0b1128c9c977298ac4335",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          9.91845417022705,
+          2.0969526767730713,
+          7.800000190734863
+        ],
+        "max": [
+          11.305468559265137,
+          2.887155294418335,
+          11.024999618530273
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a6a0b1128c9c977298ac4335/coarse.glb",
+          "byteLength": 710996,
+          "sha256": "06ca50117f6da48f73db5bdfed03a338b343e06bb9fdaef0dbb4014304b7729b",
+          "triangleCount": 1083,
+          "vertexCount": 3249
+        }
+      ]
+    },
+    {
+      "id": "p_a83cf531b9b0bb3914524ae2",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -17.9349365234375,
+          10.079999923706055
+        ],
+        "max": [
+          18.0,
+          -14.399999618530273,
+          13.680000305175781
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a83cf531b9b0bb3914524ae2/coarse.glb",
+          "byteLength": 62380,
+          "sha256": "b157444ec909235476acd12bf9250c3e0d4d12ac6a275711e3edcda44b0fc91a",
+          "triangleCount": 2806,
+          "vertexCount": 2922
+        }
+      ]
+    },
+    {
+      "id": "p_a8a927842c7720095ffbb8fe",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          0.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          25.200000762939453,
+          3.5999999046325684,
+          -0.5305812358856201
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a8a927842c7720095ffbb8fe/coarse.glb",
+          "byteLength": 216596,
+          "sha256": "e24defabf9cc6985aad2734f9ee1560411bac20e354ba879150a969a059bbce2",
+          "triangleCount": 13055,
+          "vertexCount": 9103
+        }
+      ]
+    },
+    {
+      "id": "p_a8b56b9f692534255ab36685",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          1.225311517715454,
+          6.702545642852783
+        ],
+        "max": [
+          18.0,
+          3.138936758041382,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a8b56b9f692534255ab36685/coarse.glb",
+          "byteLength": 122732,
+          "sha256": "ea8bbefebea0b43f59dce7c02a5c160c16cd300fbcac508f4c5c840e6fbbfd81",
+          "triangleCount": 6370,
+          "vertexCount": 5519
+        }
+      ]
+    },
+    {
+      "id": "p_a8ee218528980a58aa941bf5_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          3.5999999046325684,
+          -0.7200000286102295
+        ],
+        "max": [
+          20.92633056640625,
+          7.199999809265137,
+          1.6115624904632568
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a8ee218528980a58aa941bf5_0/coarse.glb",
+          "byteLength": 147232,
+          "sha256": "553be9de34e3ffefe382e477292416e847a0e7893a42c27d82061cdc9d198763",
+          "triangleCount": 8539,
+          "vertexCount": 6285
+        }
+      ]
+    },
+    {
+      "id": "p_a8ee218528980a58aa941bf5_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          3.5999999046325684,
+          1.593843936920166
+        ],
+        "max": [
+          21.594371795654297,
+          7.199999809265137,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a8ee218528980a58aa941bf5_1/coarse.glb",
+          "byteLength": 339548,
+          "sha256": "23e8ea285b29e33b1ee0985f87a69ac64bd95f48e296dd2c437f02206de05e15",
+          "triangleCount": 20787,
+          "vertexCount": 14206
+        }
+      ]
+    },
+    {
+      "id": "p_a921cc8db71a0c9f796a512e_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          3.5999999046325684,
+          -1.6248345375061035
+        ],
+        "max": [
+          2.0413529872894287,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a921cc8db71a0c9f796a512e_0/coarse.glb",
+          "byteLength": 174788,
+          "sha256": "a1dd1ce839e4e5778ca5551ab1c7db00c631b16ceb1cc2cb47cbaa8328c105c0",
+          "triangleCount": 10008,
+          "vertexCount": 7534
+        }
+      ]
+    },
+    {
+      "id": "p_a921cc8db71a0c9f796a512e_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          2.038703203201294,
+          3.5999999046325684,
+          -1.643941879272461
+        ],
+        "max": [
+          3.5999999046325684,
+          7.199999809265137,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a921cc8db71a0c9f796a512e_1/coarse.glb",
+          "byteLength": 103796,
+          "sha256": "20361010247132a27dd70e01334c8f2a06983fc9a3ab392872f4e8b5c4a20bc1",
+          "triangleCount": 6137,
+          "vertexCount": 4349
+        }
+      ]
+    },
+    {
+      "id": "p_a96eacac256b391f21e79f0f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          -5.967891693115234,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_a96eacac256b391f21e79f0f/coarse.glb",
+          "byteLength": 3336808,
+          "sha256": "2c8be54704449825826caba88ee4eb50197e83516349b3ed2601ea3c3c291f84",
+          "triangleCount": 161673,
+          "vertexCount": 89943
+        }
+      ]
+    },
+    {
+      "id": "p_aa862a703a8660057a784806",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -7.199999809265137,
+          -0.8621537685394287
+        ],
+        "max": [
+          19.69021224975586,
+          -3.5999999046325684,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_aa862a703a8660057a784806/coarse.glb",
+          "byteLength": 79808,
+          "sha256": "c1475ba46b155693823f20aca2012e11a1ba0a1aea7e0eb9913d9e952d5edbdf",
+          "triangleCount": 4532,
+          "vertexCount": 3393
+        }
+      ]
+    },
+    {
+      "id": "p_aac12fd69d89301de9de0058",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -3.5999999046325684,
+          -1.5330325365066528
+        ],
+        "max": [
+          3.5999999046325684,
+          0.0,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_aac12fd69d89301de9de0058/coarse.glb",
+          "byteLength": 189528,
+          "sha256": "eb6f018fe2f903106200741d8fbc03af3cb1b18c5933e956dc07b9f56b519d15",
+          "triangleCount": 11159,
+          "vertexCount": 8057
+        }
+      ]
+    },
+    {
+      "id": "p_ac7a87f2b97598bd79547d34",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          1.377795696258545,
+          10.079999923706055
+        ],
+        "max": [
+          16.942508697509766,
+          2.3327536582946777,
+          11.112942695617676
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ac7a87f2b97598bd79547d34/coarse.glb",
+          "byteLength": 39528,
+          "sha256": "639bf66085baf93e71563dcff6029b09fac80eea91c5187b64fff90c24adda1d",
+          "triangleCount": 2035,
+          "vertexCount": 1706
+        }
+      ]
+    },
+    {
+      "id": "p_adf859e85d1f8339eea335c4",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.782501220703125,
+          8.905500411987305,
+          2.880000114440918
+        ],
+        "max": [
+          17.95415687561035,
+          9.367956161499023,
+          2.921384811401367
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_adf859e85d1f8339eea335c4/coarse.glb",
+          "byteLength": 1940,
+          "sha256": "adb7f7be71d9a4e1942df695eb9577f489be77952b55a9a35c0e0eb96320980c",
+          "triangleCount": 34,
+          "vertexCount": 45
+        }
+      ]
+    },
+    {
+      "id": "p_ae5e33d385b418d9c5d76f2f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -14.399999618530273,
+          -0.7883777618408203
+        ],
+        "max": [
+          13.214858055114746,
+          -11.506913185119629,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ae5e33d385b418d9c5d76f2f/coarse.glb",
+          "byteLength": 247384,
+          "sha256": "cf286c9952321203dba71aebeaf5c1b490bf0ba32b8e28b01fd5d1e5b224cce5",
+          "triangleCount": 14375,
+          "vertexCount": 10626
+        }
+      ]
+    },
+    {
+      "id": "p_ae69dbd40f2a2df08436bc98",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -14.399999618530273,
+          -0.8040456771850586
+        ],
+        "max": [
+          21.600000381469727,
+          -10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ae69dbd40f2a2df08436bc98/coarse.glb",
+          "byteLength": 254684,
+          "sha256": "b478f3f02a689f3f9a9c74964f06c9170062fd19678913fa18ce4574fba36a74",
+          "triangleCount": 14602,
+          "vertexCount": 11067
+        }
+      ]
+    },
+    {
+      "id": "p_ae9ce6dd3f30e13eef087486",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -13.538528442382812,
+          -0.7331712245941162
+        ],
+        "max": [
+          24.102432250976562,
+          -12.686714172363281,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ae9ce6dd3f30e13eef087486/coarse.glb",
+          "byteLength": 147736,
+          "sha256": "f0b6b5e75417a93eb047c7dd22ce792d1606158ed9c2560d299edd1c75790890",
+          "triangleCount": 8518,
+          "vertexCount": 6370
+        }
+      ]
+    },
+    {
+      "id": "p_af30dab6d4f248aa71e893e1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          4.3062520027160645,
+          -6.745813846588135,
+          2.880000114440918
+        ],
+        "max": [
+          7.199999809265137,
+          -3.5999999046325684,
+          5.7603254318237305
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_af30dab6d4f248aa71e893e1/coarse.glb",
+          "byteLength": 343016,
+          "sha256": "08f0036c1d5c145ecc495bfd9a778f41b78e9e463c48f9a84c05512c1b1f37a7",
+          "triangleCount": 20670,
+          "vertexCount": 14483
+        }
+      ]
+    },
+    {
+      "id": "p_b2929b958f56aed180529207",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          22.05787467956543,
+          3.5999999046325684,
+          -0.7200000286102295
+        ],
+        "max": [
+          25.200000762939453,
+          5.950034141540527,
+          -0.5226269364356995
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b2929b958f56aed180529207/coarse.glb",
+          "byteLength": 71232,
+          "sha256": "76ece9aa02cfef00bf8275aa00c82f0288dab80a699800bf7b7201621b6f112f",
+          "triangleCount": 4045,
+          "vertexCount": 3016
+        }
+      ]
+    },
+    {
+      "id": "p_b2ca720710c2def9a94c2e04",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -7.199999809265137,
+          4.993062496185303
+        ],
+        "max": [
+          14.233874320983887,
+          -6.964205265045166,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b2ca720710c2def9a94c2e04/coarse.glb",
+          "byteLength": 36432,
+          "sha256": "6cbba534cc008ec3f7ae8ce2d571ceb71bc7c099b7ac3dadb042913fd6036eec",
+          "triangleCount": 1829,
+          "vertexCount": 1582
+        }
+      ]
+    },
+    {
+      "id": "p_b405b7e5efee490424ff4b3c",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          6.031977653503418,
+          -10.800000190734863,
+          5.970294952392578
+        ],
+        "max": [
+          7.199999809265137,
+          -8.037184715270996,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b405b7e5efee490424ff4b3c/coarse.glb",
+          "byteLength": 43996,
+          "sha256": "4b7f0ad5cfb67d0bd42fdaaa80954df111efa933ca589d6d43be771b72d11437",
+          "triangleCount": 2404,
+          "vertexCount": 1856
+        }
+      ]
+    },
+    {
+      "id": "p_b49f8d52d15cfdb40b459a11_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -18.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          -15.9231538772583,
+          0.5135583877563477
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b49f8d52d15cfdb40b459a11_0/coarse.glb",
+          "byteLength": 247792,
+          "sha256": "7174114981a4062c57fa217bd38ffcf2b7d6d23778ee857e5fe64e7009d2ee95",
+          "triangleCount": 14727,
+          "vertexCount": 10513
+        }
+      ]
+    },
+    {
+      "id": "p_b49f8d52d15cfdb40b459a11_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -18.0,
+          0.49584364891052246
+        ],
+        "max": [
+          10.091445922851562,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b49f8d52d15cfdb40b459a11_1/coarse.glb",
+          "byteLength": 284320,
+          "sha256": "8dcf62764ab060697b4fa67229d58eebda87500116576e7c48e0dec07ff74afc",
+          "triangleCount": 16672,
+          "vertexCount": 12170
+        }
+      ]
+    },
+    {
+      "id": "p_b5284e9a9ff4e99f6d25b879",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          7.199999809265137,
+          -0.7200000286102295
+        ],
+        "max": [
+          2.6367781162261963,
+          8.992227554321289,
+          1.607020378112793
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b5284e9a9ff4e99f6d25b879/coarse.glb",
+          "byteLength": 177992,
+          "sha256": "d455eaeb3d331e6a1e11abbb1e088455fe9277408e7cf8af6aa970906fcb7ddb",
+          "triangleCount": 9927,
+          "vertexCount": 7780
+        }
+      ]
+    },
+    {
+      "id": "p_b6ed35da4309a9c1f4fb3b2c",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -14.809466361999512,
+          -0.7441128492355347
+        ],
+        "max": [
+          20.395336151123047,
+          -14.399999618530273,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b6ed35da4309a9c1f4fb3b2c/coarse.glb",
+          "byteLength": 86296,
+          "sha256": "de729948ca2dd12151138285c837a03497d9ef96594cde2eaa3c9965d875644b",
+          "triangleCount": 4896,
+          "vertexCount": 3724
+        }
+      ]
+    },
+    {
+      "id": "p_b92c95e3d3ed61a39d74d71b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          7.199999809265137,
+          -1.0309898853302002
+        ],
+        "max": [
+          14.399999618530273,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_b92c95e3d3ed61a39d74d71b/coarse.glb",
+          "byteLength": 233060,
+          "sha256": "05649e75b1c01f099240bc5a05afff36bed90bbf85fa0e666d1c28bd0879f980",
+          "triangleCount": 13690,
+          "vertexCount": 9945
+        }
+      ]
+    },
+    {
+      "id": "p_ba3f65ecc60495dd48bafe6a",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          5.932235240936279,
+          3.5837817192077637
+        ],
+        "max": [
+          14.399999618530273,
+          7.199999809265137,
+          5.7371015548706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ba3f65ecc60495dd48bafe6a/coarse.glb",
+          "byteLength": 284624,
+          "sha256": "8f81d7744a8b5568e1011357bcaabc4dc8fee966620eb70153e80cd1ec971659",
+          "triangleCount": 17392,
+          "vertexCount": 11902
+        }
+      ]
+    },
+    {
+      "id": "p_bae913d1171ebfaf811c2e3b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          -14.399999618530273,
+          2.880000114440918
+        ],
+        "max": [
+          14.399999618530273,
+          -10.800000190734863,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_bae913d1171ebfaf811c2e3b/coarse.glb",
+          "byteLength": 391696,
+          "sha256": "1b3c1e8b2756016356c01ae46c04e51d36e9c6d9018d2371d6a316af5c76beb9",
+          "triangleCount": 21866,
+          "vertexCount": 17250
+        }
+      ]
+    },
+    {
+      "id": "p_bb07841a00c8553303cecf42",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -14.399999618530273,
+          2.880000114440918
+        ],
+        "max": [
+          3.5999999046325684,
+          -10.800000190734863,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_bb07841a00c8553303cecf42/coarse.glb",
+          "byteLength": 570684,
+          "sha256": "c634284aace83e98479b21639a660268745ab0d1c20be91b458a8d4f1ad90a6a",
+          "triangleCount": 30128,
+          "vertexCount": 25879
+        }
+      ]
+    },
+    {
+      "id": "p_bd7d7d30e4f942f12ec90c54",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          1.8968839645385742,
+          -1.3921829462051392,
+          -0.7200000286102295
+        ],
+        "max": [
+          3.5999999046325684,
+          0.0,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_bd7d7d30e4f942f12ec90c54/coarse.glb",
+          "byteLength": 132968,
+          "sha256": "1cdf75fae80c4377a13f70a7d2f018c8805d50315caea10fe15ca3347b081a9f",
+          "triangleCount": 7765,
+          "vertexCount": 5643
+        }
+      ]
+    },
+    {
+      "id": "p_bffb14741a6040b210f7626f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -7.199999809265137,
+          2.880000114440918
+        ],
+        "max": [
+          10.800000190734863,
+          -5.96805477142334,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_bffb14741a6040b210f7626f/coarse.glb",
+          "byteLength": 408556,
+          "sha256": "725cd191678f9cc009246bf3249b5355bdc7737e052c11b4463d89508458a05a",
+          "triangleCount": 23774,
+          "vertexCount": 17611
+        }
+      ]
+    },
+    {
+      "id": "p_c2481a0884ae0a8209470f89",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          7.199999809265137,
+          -1.5979301929473877
+        ],
+        "max": [
+          7.199999809265137,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c2481a0884ae0a8209470f89/coarse.glb",
+          "byteLength": 159496,
+          "sha256": "1fa342f4ce2cf7cff08e5a461be5a65b843f49d2f4677269407b7d86a5fc0780",
+          "triangleCount": 9223,
+          "vertexCount": 6828
+        }
+      ]
+    },
+    {
+      "id": "p_c2cfd891a562e306def392cd",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          5.255199909210205,
+          -6.000662803649902,
+          -0.7200000286102295
+        ],
+        "max": [
+          7.199999809265137,
+          -3.5999999046325684,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c2cfd891a562e306def392cd/coarse.glb",
+          "byteLength": 154472,
+          "sha256": "267aa4bc4231c256a7201104fb88265eb1e5d02013ce1df41cb2b3cc4991c8b3",
+          "triangleCount": 9023,
+          "vertexCount": 6573
+        }
+      ]
+    },
+    {
+      "id": "p_c4124928d6bdd38a79863615",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -14.399999618530273,
+          -0.9266557693481445
+        ],
+        "max": [
+          10.800000190734863,
+          -10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c4124928d6bdd38a79863615/coarse.glb",
+          "byteLength": 130728,
+          "sha256": "bd5b6295377133b6ef901563e6cb468cb80e00313f4d17efab78c96801f2a20f",
+          "triangleCount": 7538,
+          "vertexCount": 5584
+        }
+      ]
+    },
+    {
+      "id": "p_c574a8fe63059eea867c33d7",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          0.0,
+          6.480000019073486
+        ],
+        "max": [
+          20.067981719970703,
+          3.2800850868225098,
+          8.197287559509277
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c574a8fe63059eea867c33d7/coarse.glb",
+          "byteLength": 433888,
+          "sha256": "cb3dce000b262105e5ae81bee786ad6998df0b94bea86a5b8981c704fb2c9473",
+          "triangleCount": 27255,
+          "vertexCount": 17909
+        }
+      ]
+    },
+    {
+      "id": "p_c67480368168628686dd865f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -7.199999809265137,
+          6.480000019073486
+        ],
+        "max": [
+          19.28705596923828,
+          -3.5999999046325684,
+          9.902965545654297
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c67480368168628686dd865f/coarse.glb",
+          "byteLength": 574860,
+          "sha256": "7eea22465e54cdddb528abff0f90891b61400bfb069063ba106b5e8f48994f2c",
+          "triangleCount": 36334,
+          "vertexCount": 23674
+        }
+      ]
+    },
+    {
+      "id": "p_c6d6b1de38c4f9fce8b65944",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -3.5999999046325684,
+          -0.6322769522666931
+        ],
+        "max": [
+          25.200000762939453,
+          0.0,
+          -0.5338370203971863
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c6d6b1de38c4f9fce8b65944/coarse.glb",
+          "byteLength": 388728,
+          "sha256": "f7cbb7d9d96faf22f7dc90fd6d12d8e5158304a9974825b619d8658d2c1f50ef",
+          "triangleCount": 23969,
+          "vertexCount": 16212
+        }
+      ]
+    },
+    {
+      "id": "p_c94936feb28bba1e91b6c6f6",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -10.800000190734863,
+          -1.421294093132019
+        ],
+        "max": [
+          3.5999999046325684,
+          -7.199999809265137,
+          -0.8506319522857666
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_c94936feb28bba1e91b6c6f6/coarse.glb",
+          "byteLength": 164360,
+          "sha256": "639408f546ad5a38812cde971028ec2023fd2d7d1d00e98e2e9203fcb9126e00",
+          "triangleCount": 9657,
+          "vertexCount": 6979
+        }
+      ]
+    },
+    {
+      "id": "p_cbb5323b6604deaac2262b50",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -18.0,
+          6.480000019073486
+        ],
+        "max": [
+          21.600000381469727,
+          -14.399999618530273,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cbb5323b6604deaac2262b50/coarse.glb",
+          "byteLength": 255984,
+          "sha256": "109f7d12c2039ebec4e7e367bca1cd7178d4383f80359ddc7a9daa820bec1184",
+          "triangleCount": 12418,
+          "vertexCount": 11985
+        }
+      ]
+    },
+    {
+      "id": "p_cc57bb7ae6ea9d11ba40825f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          5.60123872756958,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          7.199999809265137,
+          2.5806610584259033
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cc57bb7ae6ea9d11ba40825f/coarse.glb",
+          "byteLength": 395924,
+          "sha256": "e1ca595820a7ddbd27743bd6e9d047966188db0207b2358a7e0ec98d0ede2adb",
+          "triangleCount": 23643,
+          "vertexCount": 16822
+        }
+      ]
+    },
+    {
+      "id": "p_cd6348c93a731a73a1a05b6f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -14.399999618530273,
+          6.480000019073486
+        ],
+        "max": [
+          7.199999809265137,
+          -10.800000190734863,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cd6348c93a731a73a1a05b6f/coarse.glb",
+          "byteLength": 231468,
+          "sha256": "7fe16d6cdad110ca3384de32428b50b9d861baecc6b6cf8a2cff6985cd44fbf6",
+          "triangleCount": 11463,
+          "vertexCount": 10730
+        }
+      ]
+    },
+    {
+      "id": "p_ce9dea700267379fdb8d8ad5",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -13.787307739257812,
+          10.079999923706055
+        ],
+        "max": [
+          3.5999999046325684,
+          -10.90390396118164,
+          13.680000305175781
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ce9dea700267379fdb8d8ad5/coarse.glb",
+          "byteLength": 128144,
+          "sha256": "a0eafcbcce3377de92f7500c8fd065b4607e749b7799aa2bfdfccd175831d0d1",
+          "triangleCount": 6234,
+          "vertexCount": 5934
+        }
+      ]
+    },
+    {
+      "id": "p_cf646a2ba0dba83f593e5f9f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.857590675354004,
+          -18.0,
+          10.079999923706055
+        ],
+        "max": [
+          9.257360458374023,
+          -14.399999618530273,
+          11.538522720336914
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cf646a2ba0dba83f593e5f9f/coarse.glb",
+          "byteLength": 7376,
+          "sha256": "6bd7f0420c1e1621941272386ba85bb4819008931699aab66cb2cd656bd5631e",
+          "triangleCount": 280,
+          "vertexCount": 309
+        }
+      ]
+    },
+    {
+      "id": "p_cfb9e4abf115e88b70b191d6",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -15.73891830444336,
+          -0.7200000286102295
+        ],
+        "max": [
+          3.5999999046325684,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cfb9e4abf115e88b70b191d6/coarse.glb",
+          "byteLength": 276108,
+          "sha256": "ddeb4e303cfc9fd7a898742a9404b51b1145c091b140cd2e9b8be88ae4952990",
+          "triangleCount": 16573,
+          "vertexCount": 11662
+        }
+      ]
+    },
+    {
+      "id": "p_cfbce9bc453133330542f5ef",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.459470748901367,
+          -3.5999999046325684,
+          -0.9641382694244385
+        ],
+        "max": [
+          21.57320213317871,
+          0.0,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cfbce9bc453133330542f5ef/coarse.glb",
+          "byteLength": 165964,
+          "sha256": "f6d6cc68c246f66a57df8b85b49fe5b15dfd1ed1976b06a63f089ab28352e895",
+          "triangleCount": 9834,
+          "vertexCount": 7015
+        }
+      ]
+    },
+    {
+      "id": "p_cff8c57ec5ead6850b01e2f0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          5.144904136657715,
+          -10.800000190734863,
+          6.480000019073486
+        ],
+        "max": [
+          7.199999809265137,
+          -10.324892044067383,
+          7.945871829986572
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_cff8c57ec5ead6850b01e2f0/coarse.glb",
+          "byteLength": 19500,
+          "sha256": "7bb9d1e98f98b830a3c25170f591a74097c8d9b21328ff62b53b79c045d45731",
+          "triangleCount": 896,
+          "vertexCount": 827
+        }
+      ]
+    },
+    {
+      "id": "p_d011974abffcc5154ffcc5e8",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -10.800000190734863,
+          5.671520233154297
+        ],
+        "max": [
+          18.711509704589844,
+          -7.822706699371338,
+          6.238389015197754
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_d011974abffcc5154ffcc5e8/coarse.glb",
+          "byteLength": 44052,
+          "sha256": "ea5a9a5217a6adbc410204a67d732cf2639f19a049bd88eab761ae197badb26f",
+          "triangleCount": 2505,
+          "vertexCount": 1820
+        }
+      ]
+    },
+    {
+      "id": "p_d11e913a3239378320b61fb7",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          18.0,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_d11e913a3239378320b61fb7/coarse.glb",
+          "byteLength": 657148,
+          "sha256": "2b43ef5efe1c1f797ce5b142c5b1fe42e247259ebfa883d2541d6d2c28d78ca2",
+          "triangleCount": 35486,
+          "vertexCount": 29501
+        }
+      ]
+    },
+    {
+      "id": "p_d3eea9e4ea4e16d1419f1601",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -14.399999618530273,
+          2.880000114440918
+        ],
+        "max": [
+          10.800000190734863,
+          -10.800000190734863,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_d3eea9e4ea4e16d1419f1601/coarse.glb",
+          "byteLength": 507672,
+          "sha256": "f26c47f391480ea37c08cec97b60c5db2340d9a8d0652f49a97b12d0f34ade2b",
+          "triangleCount": 27792,
+          "vertexCount": 22611
+        }
+      ]
+    },
+    {
+      "id": "p_d43b671921bd4665a08c5c89",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          1.940224051475525,
+          10.1524658203125
+        ],
+        "max": [
+          14.399999618530273,
+          2.780362606048584,
+          11.091450691223145
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_d43b671921bd4665a08c5c89/coarse.glb",
+          "byteLength": 24844,
+          "sha256": "c7fc3beddac298b5a767af7a09d55e5ad938dd49794efd971d7d896a28d5c618",
+          "triangleCount": 1155,
+          "vertexCount": 1079
+        }
+      ]
+    },
+    {
+      "id": "p_dda099bb611d6e6521b97003",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          21.600000381469727,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_dda099bb611d6e6521b97003/coarse.glb",
+          "byteLength": 731800,
+          "sha256": "075fef5c566d3ea487fc9d830dcd68b54ede04f2666494741abb5a3aef6e22cf",
+          "triangleCount": 39215,
+          "vertexCount": 32987
+        }
+      ]
+    },
+    {
+      "id": "p_df75d267ad68ba5134f0478a_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -10.800000190734863,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          -9.353792190551758,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_df75d267ad68ba5134f0478a_0/coarse.glb",
+          "byteLength": 271840,
+          "sha256": "5b1a9e845d7cf2146368fa97f2fc52eeef4627276ec6f4a977769c2acfde6c21",
+          "triangleCount": 16120,
+          "vertexCount": 11558
+        }
+      ]
+    },
+    {
+      "id": "p_df75d267ad68ba5134f0478a_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -9.371506690979004,
+          -0.7200000286102295
+        ],
+        "max": [
+          10.800000190734863,
+          -7.199999809265137,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_df75d267ad68ba5134f0478a_1/coarse.glb",
+          "byteLength": 462644,
+          "sha256": "98a2d5c20dcea27fa9d1bcadd9e5f819dc63022da83037fe7d15759470db201f",
+          "triangleCount": 27550,
+          "vertexCount": 19706
+        }
+      ]
+    },
+    {
+      "id": "p_e02e6dc102fe2dcf9a5cd734",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.800000190734863,
+          7.199999809265137,
+          2.880000114440918
+        ],
+        "max": [
+          13.202437400817871,
+          9.992583274841309,
+          5.727749824523926
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e02e6dc102fe2dcf9a5cd734/coarse.glb",
+          "byteLength": 15420,
+          "sha256": "16ab5bbe593807141530fc52435fbaa3939c95ee55eeab661e43d4b06a548aea",
+          "triangleCount": 694,
+          "vertexCount": 636
+        }
+      ]
+    },
+    {
+      "id": "p_e030391f83d09344c043b9de",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          13.186405181884766,
+          1.4392623901367188,
+          7.800000190734863
+        ],
+        "max": [
+          16.482467651367188,
+          2.4672694206237793,
+          11.0649995803833
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e030391f83d09344c043b9de/coarse.glb",
+          "byteLength": 788852,
+          "sha256": "44b025324beefce1127fc0ce5d0c1809372cf3f35b8be36b66d64caf58db674f",
+          "triangleCount": 2121,
+          "vertexCount": 6363
+        }
+      ]
+    },
+    {
+      "id": "p_e35aeb3f3bf8c42156485a69_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          3.5999999046325684,
+          -0.7200000286102295
+        ],
+        "max": [
+          6.819104194641113,
+          5.506312370300293,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e35aeb3f3bf8c42156485a69_0/coarse.glb",
+          "byteLength": 207312,
+          "sha256": "4223b7973cb3947834d4ce94faddda81ef9890114f947059da21b86f44bab210",
+          "triangleCount": 12034,
+          "vertexCount": 8891
+        }
+      ]
+    },
+    {
+      "id": "p_e35aeb3f3bf8c42156485a69_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          5.323734760284424,
+          5.488594055175781,
+          -0.7200000286102295
+        ],
+        "max": [
+          7.199999809265137,
+          7.199999809265137,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e35aeb3f3bf8c42156485a69_1/coarse.glb",
+          "byteLength": 161952,
+          "sha256": "2fa2437ee1c58405e6af79affc6539c17a5aa3986a0cd30d7de82f4d4b6777f9",
+          "triangleCount": 9582,
+          "vertexCount": 6848
+        }
+      ]
+    },
+    {
+      "id": "p_e55f4982dcc9e5d9e8fd7d09",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -18.0,
+          -1.1016628742218018
+        ],
+        "max": [
+          7.199999809265137,
+          -14.399999618530273,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e55f4982dcc9e5d9e8fd7d09/coarse.glb",
+          "byteLength": 187240,
+          "sha256": "e2f5d07649bcc343731b4f670ec73c71f4293b7ab34ca43e080a72229ca43f1d",
+          "triangleCount": 11064,
+          "vertexCount": 7941
+        }
+      ]
+    },
+    {
+      "id": "p_e5660cc61de8ede8446513c0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          7.199999809265137,
+          -0.9888746738433838
+        ],
+        "max": [
+          18.0,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e5660cc61de8ede8446513c0/coarse.glb",
+          "byteLength": 149820,
+          "sha256": "622aaccde5f7059e1263c78553f6177ff69317c5f24db943c5211bfdeaaf551a",
+          "triangleCount": 8676,
+          "vertexCount": 6402
+        }
+      ]
+    },
+    {
+      "id": "p_e8c05c7ed1b7b31b3d26cc7e_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -14.399999618530273,
+          -0.7200000286102295
+        ],
+        "max": [
+          18.0,
+          -10.800000190734863,
+          0.405437707901001
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e8c05c7ed1b7b31b3d26cc7e_0/coarse.glb",
+          "byteLength": 195024,
+          "sha256": "311efb818324d8be5ddfc2f141447b8445e36d3a676d4a2767e011680bb44350",
+          "triangleCount": 11432,
+          "vertexCount": 8313
+        }
+      ]
+    },
+    {
+      "id": "p_e8c05c7ed1b7b31b3d26cc7e_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          14.399999618530273,
+          -14.399999618530273,
+          0.396578311920166
+        ],
+        "max": [
+          18.0,
+          -10.800000190734863,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_e8c05c7ed1b7b31b3d26cc7e_1/coarse.glb",
+          "byteLength": 162324,
+          "sha256": "8af84cb67c51b81c168f10f2e05d896647adb9aa5f3217b7c195c1c2c727ffe4",
+          "triangleCount": 9601,
+          "vertexCount": 6866
+        }
+      ]
+    },
+    {
+      "id": "p_ea4666a751859bd6efb81eb8",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          0.0,
+          2.880000114440918
+        ],
+        "max": [
+          6.433311939239502,
+          3.5999999046325684,
+          5.699674129486084
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ea4666a751859bd6efb81eb8/coarse.glb",
+          "byteLength": 423624,
+          "sha256": "36549ae52be1fd802858f5747226ce4cbd2d723c37893182ada87a4a7c95dbf9",
+          "triangleCount": 24954,
+          "vertexCount": 18144
+        }
+      ]
+    },
+    {
+      "id": "p_ea70fd3f07b8dea39fd33e25",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          7.2395453453063965,
+          2.326045036315918
+        ],
+        "max": [
+          21.867855072021484,
+          9.393118858337402,
+          2.799731492996216
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ea70fd3f07b8dea39fd33e25/coarse.glb",
+          "byteLength": 39424,
+          "sha256": "714f2a59a97863786d1cb2c0d97156618de6f15283894ed93b7fc76f696a3b82",
+          "triangleCount": 2175,
+          "vertexCount": 1644
+        }
+      ]
+    },
+    {
+      "id": "p_eab952aed9837e107f9a643f_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -18.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          19.64051628112793,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_eab952aed9837e107f9a643f_0/coarse.glb",
+          "byteLength": 589620,
+          "sha256": "1a258a56e05bd09546307d478ce8dd0a7d7c75b9a3c22a8d43d9197689100bcc",
+          "triangleCount": 35564,
+          "vertexCount": 24968
+        }
+      ]
+    },
+    {
+      "id": "p_eab952aed9837e107f9a643f_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          19.627731323242188,
+          -18.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          21.600000381469727,
+          -14.399999618530273,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_eab952aed9837e107f9a643f_1/coarse.glb",
+          "byteLength": 576224,
+          "sha256": "da2dd9918f580bbc6291c13ad1126d298a57c107001840814bd0c549f21b7a53",
+          "triangleCount": 33959,
+          "vertexCount": 24716
+        }
+      ]
+    },
+    {
+      "id": "p_eac9341bac0d7a75179d3201",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.372115135192871,
+          -7.199999809265137,
+          6.480000019073486
+        ],
+        "max": [
+          10.800000190734863,
+          -3.5999999046325684,
+          8.106897354125977
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_eac9341bac0d7a75179d3201/coarse.glb",
+          "byteLength": 68480,
+          "sha256": "dae430f4de8b3257f5f5b379e865b988a038f48daf6b0ab6f6c8882bfa9b0aab",
+          "triangleCount": 3242,
+          "vertexCount": 3153
+        }
+      ]
+    },
+    {
+      "id": "p_ec2d1a213deb4c2662a580f6",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -18.0,
+          10.079999923706055
+        ],
+        "max": [
+          21.534133911132812,
+          -14.399999618530273,
+          13.680000305175781
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ec2d1a213deb4c2662a580f6/coarse.glb",
+          "byteLength": 62496,
+          "sha256": "e928888c32aa1fd87f1eaabc7749ef556286558b5b61b2c2487e5f3e69edf1fc",
+          "triangleCount": 2680,
+          "vertexCount": 3025
+        }
+      ]
+    },
+    {
+      "id": "p_ec7e6a0db9b0a21a2bef4ce4",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          7.199999809265137,
+          -1.077531337738037
+        ],
+        "max": [
+          10.800000190734863,
+          10.800000190734863,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ec7e6a0db9b0a21a2bef4ce4/coarse.glb",
+          "byteLength": 222036,
+          "sha256": "1025c23c1e88f4b1947f5caff4a909938b7d93763a31d76445f373b103eda68c",
+          "triangleCount": 12872,
+          "vertexCount": 9537
+        }
+      ]
+    },
+    {
+      "id": "p_ee41898856d89394913a7e98",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          10.882256507873535,
+          -17.79094696044922,
+          10.079999923706055
+        ],
+        "max": [
+          14.399999618530273,
+          -14.399999618530273,
+          13.680000305175781
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ee41898856d89394913a7e98/coarse.glb",
+          "byteLength": 32680,
+          "sha256": "1eb6fb08cdd73da2537c2823ed863dd166acf8b6da732f048db3d68e87e5a32c",
+          "triangleCount": 1431,
+          "vertexCount": 1534
+        }
+      ]
+    },
+    {
+      "id": "p_ef65d7b38dd3fd8aafc41d3f",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          10.800000190734863,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ef65d7b38dd3fd8aafc41d3f/coarse.glb",
+          "byteLength": 398480,
+          "sha256": "e53c8b5db2f71f22e3def0771d2f53fb1c069df7b805001682f5c90ba7cfcef9",
+          "triangleCount": 21807,
+          "vertexCount": 17727
+        }
+      ]
+    },
+    {
+      "id": "p_f2e2a51377c0d8cc0f76e67b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          7.199999809265137,
+          2.880000114440918
+        ],
+        "max": [
+          10.800000190734863,
+          10.381742477416992,
+          5.864276885986328
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f2e2a51377c0d8cc0f76e67b/coarse.glb",
+          "byteLength": 105360,
+          "sha256": "4fb1ca0a13d406bbcfed14d85607d5592ac11ab6af7b567fdfc98bea1c0555f6",
+          "triangleCount": 6386,
+          "vertexCount": 4354
+        }
+      ]
+    },
+    {
+      "id": "p_f48639f56b66f6d52806e526_0",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          3.5999999046325684,
+          -0.7200000286102295
+        ],
+        "max": [
+          3.5999999046325684,
+          7.199999809265137,
+          0.28455042839050293
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f48639f56b66f6d52806e526_0/coarse.glb",
+          "byteLength": 369760,
+          "sha256": "6a514c738f830f35d674ba59530325f3d2b3fd40489495fb83fa2b410593df52",
+          "triangleCount": 20954,
+          "vertexCount": 16154
+        }
+      ]
+    },
+    {
+      "id": "p_f48639f56b66f6d52806e526_1",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          3.5999999046325684,
+          0.26493775844573975
+        ],
+        "max": [
+          3.5999999046325684,
+          7.199999809265137,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f48639f56b66f6d52806e526_1/coarse.glb",
+          "byteLength": 391504,
+          "sha256": "696f13dc2111377b8159cfab85d90a5b6991eedac9e1b332e48f42e118fc4c0f",
+          "triangleCount": 21705,
+          "vertexCount": 17303
+        }
+      ]
+    },
+    {
+      "id": "p_f5fe4d76641554ccd8b9d2a9",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          17.96908187866211,
+          -7.199999809265137,
+          -0.8005881309509277
+        ],
+        "max": [
+          18.0,
+          -6.936498165130615,
+          -0.7200000286102295
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f5fe4d76641554ccd8b9d2a9/coarse.glb",
+          "byteLength": 13772,
+          "sha256": "336b722c82572bd49b1ed846daff486b4cc2de4315d20cde73b9d300b9e6287a",
+          "triangleCount": 840,
+          "vertexCount": 511
+        }
+      ]
+    },
+    {
+      "id": "p_f69bcb55c14cf66a41ee97f7",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          21.600000381469727,
+          -7.199999809265137,
+          -0.6347338557243347
+        ],
+        "max": [
+          25.200000762939453,
+          -3.5999999046325684,
+          -0.5527393817901611
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f69bcb55c14cf66a41ee97f7/coarse.glb",
+          "byteLength": 327880,
+          "sha256": "0784a7390bc7b1a75947dfe8ba6254d5d3a33efca5b9fef36642bd0dce778603",
+          "triangleCount": 20141,
+          "vertexCount": 13686
+        }
+      ]
+    },
+    {
+      "id": "p_f7cad1fbec5d5fe35de6c69b",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          8.381834983825684,
+          -7.386373043060303,
+          7.800000190734863
+        ],
+        "max": [
+          18.949161529541016,
+          2.7950844764709473,
+          7.800000190734863
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f7cad1fbec5d5fe35de6c69b/coarse.glb",
+          "byteLength": 708968,
+          "sha256": "b04f653939cdb37294e1b255fabf4c8734109f75a849737580ecd47cc46f3d34",
+          "triangleCount": 1056,
+          "vertexCount": 3168
+        }
+      ]
+    },
+    {
+      "id": "p_f9642168ba12c655b2ea77ab",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          7.199999809265137,
+          -14.399999618530273,
+          6.480000019073486
+        ],
+        "max": [
+          10.800000190734863,
+          -10.800000190734863,
+          10.079999923706055
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f9642168ba12c655b2ea77ab/coarse.glb",
+          "byteLength": 146852,
+          "sha256": "b7e08083f121a0337728511249bd6a825b659aaa70da61b4ad9b4c6ab778aa24",
+          "triangleCount": 7030,
+          "vertexCount": 6862
+        }
+      ]
+    },
+    {
+      "id": "p_f971197d35d989bc1dede94d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -8.775981903076172,
+          7.4112725257873535
+        ],
+        "max": [
+          18.768646240234375,
+          -7.199999809265137,
+          8.143267631530762
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f971197d35d989bc1dede94d/coarse.glb",
+          "byteLength": 45412,
+          "sha256": "025a8ee2c794f5c681686f8fa235b8445e0b2443935df4a5c3934528c0839912",
+          "triangleCount": 2595,
+          "vertexCount": 1876
+        }
+      ]
+    },
+    {
+      "id": "p_f9c10b9adf1928dd27da5ca3",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          0.0,
+          -0.7200000286102295
+        ],
+        "max": [
+          3.5999999046325684,
+          3.5999999046325684,
+          2.880000114440918
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_f9c10b9adf1928dd27da5ca3/coarse.glb",
+          "byteLength": 302264,
+          "sha256": "cdc30bb4181d9bb09c81168c6865e981c9f0780fd6af414a715aeb5bf38c66eb",
+          "triangleCount": 17323,
+          "vertexCount": 13107
+        }
+      ]
+    },
+    {
+      "id": "p_fa1781732ad36818dfa47c80",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          18.0,
+          -7.171247482299805,
+          2.880000114440918
+        ],
+        "max": [
+          18.486873626708984,
+          -3.5999999046325684,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_fa1781732ad36818dfa47c80/coarse.glb",
+          "byteLength": 457624,
+          "sha256": "de62d45df8f0e30da374bcc7268a3e498c43067eb4c41965254e68e89fee1de1",
+          "triangleCount": 28098,
+          "vertexCount": 19153
+        }
+      ]
+    },
+    {
+      "id": "p_fd28a12865422f762939fd8d",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          0.0,
+          -10.800000190734863,
+          2.880000114440918
+        ],
+        "max": [
+          2.571101665496826,
+          -8.704593658447266,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_fd28a12865422f762939fd8d/coarse.glb",
+          "byteLength": 158664,
+          "sha256": "77efad2a2ad299714eaa4df8483da1fd95b42bfddebe2251c6b29e6b2b0009d3",
+          "triangleCount": 8143,
+          "vertexCount": 7205
+        }
+      ]
+    },
+    {
+      "id": "p_fe781e83b7392da437d7a56c",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          3.5999999046325684,
+          -18.0,
+          2.880000114440918
+        ],
+        "max": [
+          7.199999809265137,
+          -14.399999618530273,
+          6.480000019073486
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_fe781e83b7392da437d7a56c/coarse.glb",
+          "byteLength": 383736,
+          "sha256": "e657d3fe04ea02b19c7e7b3ef656c5a1c2b56382c772ffc406a6d452f30fc67e",
+          "triangleCount": 19467,
+          "vertexCount": 17680
+        }
+      ]
+    },
+    {
+      "id": "p_ffa6f01cb777d29115783ec3",
+      "group": "exterior",
+      "bounds": {
+        "min": [
+          8.810436248779297,
+          3.5999999046325684,
+          7.985395908355713
+        ],
+        "max": [
+          10.624625205993652,
+          3.8498497009277344,
+          8.207738876342773
+        ]
+      },
+      "lods": [
+        {
+          "level": 0,
+          "file": "p_ffa6f01cb777d29115783ec3/coarse.glb",
+          "byteLength": 17072,
+          "sha256": "11a4243496842c95d10a5041a56b2e5a96e3645cf83b32b31fc3e042fe5e9036",
+          "triangleCount": 811,
+          "vertexCount": 742
+        }
+      ]
+    }
+  ]
+}
